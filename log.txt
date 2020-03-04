@@ -1,0 +1,2360 @@
+Starting session: [20:03:03 04:08:45]
+[20-03-03 04:08:50]CONNECTED(00000005)
+[20-03-03 04:08:50]---
+[20-03-03 04:08:50]Certificate chain
+[20-03-03 04:08:50]0 s:CN = irc.evilcorp.ga
+[20-03-03 04:08:50]i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+[20-03-03 04:08:50]---
+[20-03-03 04:08:50]Server certificate
+[20-03-03 04:08:50]-----BEGIN CERTIFICATE-----
+[20-03-03 04:08:50]MIIFVjCCBD6gAwIBAgISA9gI+gUUIwbU82gAqm+y5ZIzMA0GCSqGSIb3DQEBCwUA
+[20-03-03 04:08:50]MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+[20-03-03 04:08:50]ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MTkxMTMyMDVaFw0x
+[20-03-03 04:08:50]OTA3MTgxMTMyMDVaMBoxGDAWBgNVBAMTD2lyYy5ldmlsY29ycC5nYTCCASIwDQYJ
+[20-03-03 04:08:50]KoZIhvcNAQEBBQADggEPADCCAQoCggEBALjkS3R3bJzgH55+eo7noegyr9Mkgboy
+[20-03-03 04:08:50]2+0SKC+bSyEcOgPndBBMUlHaQboDNfSbOYBnMfoE6rjuxNxokL5uXNwUlZ7QydRo
+[20-03-03 04:08:50]VulGxChgG4uFkFlD1ENFe4mCG28y6tjlLNAWmOyUh/XpeJwYozcUoaiIpkQyjdGQ
+[20-03-03 04:08:50]h7olZJpbNiXoVjmrqNIIKUcAoKosd2Oq6axvguk8GzkGeB3LZgvOdDKcoPcmCacn
+[20-03-03 04:08:50]HT9u26anSBMnaR9WpxaM2DfBGRgbR53sWYDslovPOsmR9D9Fcku4EsX1Agl/UXzI
+[20-03-03 04:08:50]DCzOOKmA/y9ApsHts5Ld31bFzpE43WJ+z6bfOYRcWi6ZlM1NGO58I28CAwEAAaOC
+[20-03-03 04:08:50]AmQwggJgMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+[20-03-03 04:08:50]BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU4une/NNi9Fn+/Bu1EbZz40ml
+[20-03-03 04:08:50]k3wwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+[20-03-03 04:08:50]YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+[20-03-03 04:08:50]b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+[20-03-03 04:08:50]b3JnLzAaBgNVHREEEzARgg9pcmMuZXZpbGNvcnAuZ2EwTAYDVR0gBEUwQzAIBgZn
+[20-03-03 04:08:50]gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+[20-03-03 04:08:50]ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDiaUuuJujp
+[20-03-03 04:08:50]QAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWo1lR0+AAAEAwBHMEUCIQCBa1U5
+[20-03-03 04:08:50]5Yp84egvUx0SrB2RbfVPRlLvq+SSQC++xZlhAAIgWUgVEiqTZhyyPazdI/cXCRWT
+[20-03-03 04:08:50]Spxadeh8I8AFYOcd3LcAdgBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvY
+[20-03-03 04:08:50]jQAAAWo1lR1GAAAEAwBHMEUCICTXTJefPe2Bmc+3U+0skcSdSI1tyqmgRJjWS+Ue
+[20-03-03 04:08:50]/IP4AiEAniJlHVa7E0MF2Ug0cDyLXRBQAunbsMJn+yV2weufCnowDQYJKoZIhvcN
+[20-03-03 04:08:50]AQELBQADggEBADleBHkmrdvCH6jm7OjSoLMPZ+L6eCIuIYhGjA892Mrw8Q3RplAI
+[20-03-03 04:08:50]6RoQPyg/+WLD7zY/yYDwHlZ37gVd/LXpGjm79K4peAQpRhf9fqc3lK6z3ddq9yBJ
+[20-03-03 04:08:50]lgNKfJIHscrNf6ZNxtNgpPmDCk/Jd+Eny5D2eZa7GklzmnXu6dPK3HNbYA+2Ad0o
+[20-03-03 04:08:50]3JAv8e2/CQHaxC2scDVkolawlmTVYZkz9YQiqjN5ycWiB/7npAJN+hBh/kywQnzT
+[20-03-03 04:08:50]sLRqgJMouNyEaipHoicyemD5izKT0S2upmFUrTaSR2RkHsDwG+VA+Ql19TS4y/dr
+[20-03-03 04:08:50]sxg5HgFdwJGhbAJjqliyfxJG4+RloUuOq8c=
+[20-03-03 04:08:50]-----END CERTIFICATE-----
+[20-03-03 04:08:50]subject=CN = irc.evilcorp.ga
+[20-03-03 04:08:50]
+[20-03-03 04:08:50]issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+[20-03-03 04:08:50]
+[20-03-03 04:08:50]---
+[20-03-03 04:08:50]Acceptable client certificate CA names
+[20-03-03 04:08:50]CN = irc.evilcorp.ga
+[20-03-03 04:08:50]C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+[20-03-03 04:08:50]Client Certificate Types: RSA sign, DSA sign, ECDSA sign
+[20-03-03 04:08:50]Requested Signature Algorithms: RSA+SHA256:ECDSA+SHA256:RSA+SHA384:ECDSA+SHA384:RSA+SHA512:ECDSA+SHA512:RSA+SHA224:ECDSA+SHA224:RSA+SHA1:ECDSA+SHA1
+[20-03-03 04:08:50]Shared Requested Signature Algorithms: RSA+SHA256:ECDSA+SHA256:RSA+SHA384:ECDSA+SHA384:RSA+SHA512:ECDSA+SHA512:RSA+SHA224:ECDSA+SHA224:RSA+SHA1:ECDSA+SHA1
+[20-03-03 04:08:50]Peer signing digest: SHA256
+[20-03-03 04:08:50]Peer signature type: RSA
+[20-03-03 04:08:50]Server Temp Key: ECDH, P-256, 256 bits
+[20-03-03 04:08:50]---
+[20-03-03 04:08:50]SSL handshake has read 2024 bytes and written 455 bytes
+[20-03-03 04:08:50]Verification error: unable to verify the first certificate
+[20-03-03 04:08:50]---
+[20-03-03 04:08:50]New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+[20-03-03 04:08:50]Server public key is 2048 bit
+[20-03-03 04:08:50]Secure Renegotiation IS supported
+[20-03-03 04:08:50]Compression: NONE
+[20-03-03 04:08:50]Expansion: NONE
+[20-03-03 04:08:50]No ALPN negotiated
+[20-03-03 04:08:50]SSL-Session:
+[20-03-03 04:08:50]Protocol  : TLSv1.2
+[20-03-03 04:08:50]Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+[20-03-03 04:08:50]Session-ID: 3EE7708D0289E83C10DD90A6DDF0A33048190D1C89C5880ECD52F7D6865BB1B1
+[20-03-03 04:08:50]Session-ID-ctx:
+[20-03-03 04:08:50]Master-Key: E9F89A56BC8B1AC3EEF9A0E173A1B2C752F6E85369A546C8ABD64A1BB11D5EDED65C050117B3B6662B40596558E64351
+[20-03-03 04:08:50]PSK identity: None
+[20-03-03 04:08:50]PSK identity hint: None
+[20-03-03 04:08:50]SRP username: None
+[20-03-03 04:08:50]Start Time: 1583237328
+[20-03-03 04:08:50]Timeout   : 7200 (sec)
+[20-03-03 04:08:50]Verify return code: 21 (unable to verify the first certificate)
+[20-03-03 04:08:50]Extended master secret: yes
+[20-03-03 04:08:50]---
+[20-03-03 04:08:51]:irc.evilcorp.ga NOTICE * :*** Looking up your hostname...
+[20-03-03 04:08:51]:irc.evilcorp.ga NOTICE * :*** Could not resolve your hostname: Domain not found; using your IP address (117.216.89.131) instead.
+[20-03-03 04:08:52]:irc.evilcorp.ga 396 BayMax EvilCorpe5a.m05.8ccn1r.IP :is now your displayed host
+[20-03-03 04:08:52]:BayMax!BayMax@EvilCorpe5a.m05.8ccn1r.IP MODE BayMax :+xw
+[20-03-03 04:08:52]:irc.evilcorp.ga 001 BayMax :Welcome to the EvilCorp IRC Network BayMax!BayMax@117.216.89.131
+[20-03-03 04:08:52]:irc.evilcorp.ga 002 BayMax :Your host is irc.evilcorp.ga, running version InspIRCd-3
+[20-03-03 04:08:52]:irc.evilcorp.ga 003 BayMax :This server was created 09:34:49 Feb 10 2020
+[20-03-03 04:08:52]:irc.evilcorp.ga 004 BayMax irc.evilcorp.ga InspIRCd-3 BGHIRScdghikorswx BCFGHIJKMNOQRSTXZabcdefghijklmnopqrstuvwyz :FHIJXZabdefghjkloqvwy
+[20-03-03 04:08:52]:irc.evilcorp.ga 005 BayMax ACCEPT=30 AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANLIMIT=#:20 CHANMODES=IXZbegw,k,FHJdfjl,BCGKMNOQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e EXTBAN=,BCNOQRSTUcjmz :are supported by this server
+[20-03-03 04:08:52]:irc.evilcorp.ga 005 BayMax HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=IXbegw:10000 MAXTARGETS=20 MODES=20 NETWORK=EvilCorp NICKLEN=30 OPERLOG PREFIX=(yqaohv)!~&@%+ REMOVE :are supported by this server
+[20-03-03 04:08:52]:irc.evilcorp.ga 005 BayMax SAFELIST SILENCE=32 STATUSMSG=!~&@%+ TOPICLEN=307 USERLEN=10 VBANLIST WATCH=30 WHOX :are supported by this server
+[20-03-03 04:08:52]:irc.evilcorp.ga 251 BayMax :There are 26 users and 2 invisible on 2 servers
+[20-03-03 04:08:52]:irc.evilcorp.ga 252 BayMax 1 :operator(s) online
+[20-03-03 04:08:52]:irc.evilcorp.ga 253 BayMax 1 :unknown connections
+[20-03-03 04:08:52]:irc.evilcorp.ga 254 BayMax 9 :channels formed
+[20-03-03 04:08:52]:irc.evilcorp.ga 255 BayMax :I have 12 clients and 1 servers
+[20-03-03 04:08:52]:irc.evilcorp.ga 265 BayMax :Current local users: 12  Max: 31
+[20-03-03 04:08:52]:irc.evilcorp.ga 266 BayMax :Current global users: 28  Max: 45
+[20-03-03 04:08:52]:irc.evilcorp.ga 375 BayMax :irc.evilcorp.ga message of the day
+[20-03-03 04:08:52]:irc.evilcorp.ga 372 BayMax :-  _____       _ _  ____
+[20-03-03 04:08:52]:irc.evilcorp.ga 372 BayMax :- | ____|_   _(_) |/ ___|___  _ __ _ __
+[20-03-03 04:08:52]:irc.evilcorp.ga 372 BayMax :- |  _|   / / | | |   / _ | '__| '_ 
+[20-03-03 04:08:52]:irc.evilcorp.ga 372 BayMax :- | |___  V /| | | |__| (_) | |  | |_) |
+[20-03-03 04:08:52]:irc.evilcorp.ga 372 BayMax :- |_____| _/ |_|_|_______/|_|  | .__/
+[20-03-03 04:08:52]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:52]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Welcome to the EvilCorp Network.
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Please read the rules (/rules).
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Please contact riverdusty@protonmail.com with any queries
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Official Channels: 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Main Channel:                     #Lobby
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Staff Members:
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- dusty:                            Owner/NetAdmin
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Goro:                             NetAdmin
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- (#Lobby) Helpers/moderators:
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Network-Websites (Clearnet):
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Main Site (With Links):           https://www.evilcorp.ga
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Wiki Site:                        https://wiki.evilcorp.ga
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Network Information:
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Primary Server:                   irc.evilcorp.ga
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Port Information:
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Default IRC Port:                 6667
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Secure IRC Port:                  6697
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- Services we provide:
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- 
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- NickServ:                         Register, identify, and protect your nickname
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- MemoServ:                         Send messages to registered users even when they offline
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- HostServ:                         Take a vhost for your account.
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- ChanServ:                         Register channels and manage them.
+[20-03-03 04:08:53]:irc.evilcorp.ga 372 BayMax :- BotServ:                          Assign some "special" ChanServ alternatives to your chan
+[20-03-03 04:08:53]:irc.evilcorp.ga 376 BayMax :End of message of the day.
+[20-03-03 04:08:53]:irc.evilcorp.ga NOTICE BayMax :*** You are connected to irc.evilcorp.ga using SSL cipher 'TLS1.2-ECDHE-RSA-AES-256-GCM-AEAD'
+[20-03-03 04:08:53]:NickServ!services@services.evil NOTICE BayMax :This nickname is registered and protected.  If it is your
+[20-03-03 04:08:53]:NickServ!services@services.evil NOTICE BayMax :nick, type /msg NickServ IDENTIFY password.  Otherwise,
+[20-03-03 04:08:53]:NickServ!services@services.evil NOTICE BayMax :please choose a different nick.
+[20-03-03 04:08:53]:NickServ!services@services.evil NOTICE BayMax :If you do not change within 1 minute, I will change your nick.
+[20-03-03 04:08:53]:NickServ!services@services.evil NOTICE BayMax :Password accepted - you are now recognized.
+[20-03-03 04:08:53]:irc.evilcorp.ga 900 BayMax BayMax!BayMax@EvilCorpe5a.m05.8ccn1r.IP BayMax :You are now logged in as BayMax
+[20-03-03 04:08:53]:irc.evilcorp.ga MODE BayMax :-x
+[20-03-03 04:08:53]:irc.evilcorp.ga 396 BayMax Health.Care.Companion :is now your displayed host
+[20-03-03 04:08:53]:HostServ!services@services.evil NOTICE BayMax :Your vhost of Health.Care.Companion is now activated.
+[20-03-03 04:08:54]:NickServ!services@services.evil MODE BayMax :+r
+[20-03-03 04:08:54]:BayMax!BayMax@Health.Care.Companion JOIN :#lobby
+[20-03-03 04:08:54]:irc.evilcorp.ga 332 BayMax #lobby :Main website: http://bit.do/fhePe | Webchat: http://bit.do/fhePo , http://qchat.evilcorpp3dto3l5.onion/ | ZNC (Disabled): http://bit.do/fhePL | Rules: http://bit.do/fhePW | IRC Client: irc.evilcorp.ga , cfkophpyl5dg3mdb7s6b5fsxvr36zuhvkpxiriurbkm7jbbyqs53goyd.onion (Regular port: 6667 , SSL port: 6697)
+[20-03-03 04:08:54]:irc.evilcorp.ga 333 BayMax #lobby Jaxx :1582817575
+[20-03-03 04:08:54]:irc.evilcorp.ga 353 BayMax = #lobby :BayMax +dusty +Akuma LODA &EvilBot @PatientZer0 @TripleZer0 +Koragg x3n +Shadow_Lobster +owl @Megatron &MrRobot
+[20-03-03 04:08:54]:irc.evilcorp.ga 366 BayMax #lobby :End of /NAMES list.
+[20-03-03 04:08:54]:MrRobot!MrRobot@evilcorp.ga NOTICE BayMax :[#lobby] 6To all users4: Please do follow the rules by checking the rules at7 https://wiki.evilcorp.ga/index.php?title=Lobby_Rules
+[20-03-03 04:08:54]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +v :BayMax
+[20-03-03 04:08:54]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :sTaY eViL BayMax
+[20-03-03 04:08:54]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome BayMax
+[20-03-03 04:08:56]:BayMax!BayMax@Health.Care.Companion JOIN :#lobster
+[20-03-03 04:08:56]:irc.evilcorp.ga 332 BayMax #lobster :grow your peepee like me ;p
+[20-03-03 04:08:56]:irc.evilcorp.ga 333 BayMax #lobster Shadow_Lobster :1581672827
+[20-03-03 04:08:56]:irc.evilcorp.ga 353 BayMax = #lobster :BayMax ~Shadow_Lobster &IronGolm
+[20-03-03 04:08:56]:irc.evilcorp.ga 366 BayMax #lobster :End of /NAMES list.
+[20-03-03 04:08:56]:IronGolm!Iron@Golm MODE #lobster +ao BayMax :BayMax
+[20-03-03 04:08:59]:BayMax!BayMax@Health.Care.Companion JOIN :#BashWizards
+[20-03-03 04:08:59]:irc.evilcorp.ga 332 BayMax #BashWizards :WE ARE TERMINAL LOVERS! WE LOVE BASH! WE LOVE YOUR MOM! WE CODE IN OUR BASH CLOAKS! We love but hate hate the mighty perl monks. For they are tooo damn smart! Also Megatron and BayMax are bash bots.
+[20-03-03 04:08:59]:irc.evilcorp.ga 333 BayMax #BashWizards TripleZer0!TripleZer0@Golden.Legend :1582756138
+[20-03-03 04:08:59]:irc.evilcorp.ga 353 BayMax = #BashWizards :BayMax ~PatientZer0 ~TripleZer0 +Koragg &Shadow_Lobster owl &Megatron &PerlMonk
+[20-03-03 04:08:59]:irc.evilcorp.ga 366 BayMax #BashWizards :End of /NAMES list.
+[20-03-03 04:08:59]:PerlMonk!PerlMonk@Terminal.Slayer MODE #BashWizards +ao BayMax :BayMax
+[20-03-03 04:09:00]:BayMax!BayMax@Health.Care.Companion JOIN :#bots
+[20-03-03 04:09:00]:irc.evilcorp.ga 353 BayMax = #bots :BayMax ~PatientZer0 Shadow_Lobster owl Megatron
+[20-03-03 04:09:00]:irc.evilcorp.ga 366 BayMax #bots :End of /NAMES list.
+[20-03-03 04:11:00]PING :irc.evilcorp.ga
+[20-03-03 04:13:00]PING :irc.evilcorp.ga
+[20-03-03 04:15:00]PING :irc.evilcorp.ga
+[20-03-03 04:17:00]PING :irc.evilcorp.ga
+[20-03-03 04:19:00]PING :irc.evilcorp.ga
+[20-03-03 04:21:01]PING :irc.evilcorp.ga
+[20-03-03 04:23:03]PING :irc.evilcorp.ga
+[20-03-03 04:25:03]PING :irc.evilcorp.ga
+[20-03-03 04:27:04]PING :irc.evilcorp.ga
+[20-03-03 04:29:04]PING :irc.evilcorp.ga
+[20-03-03 04:31:04]PING :irc.evilcorp.ga
+[20-03-03 04:33:05]PING :irc.evilcorp.ga
+[20-03-03 04:35:05]PING :irc.evilcorp.ga
+[20-03-03 04:37:05]PING :irc.evilcorp.ga
+[20-03-03 04:39:05]PING :irc.evilcorp.ga
+[20-03-03 04:41:05]PING :irc.evilcorp.ga
+[20-03-03 04:43:04]PING :irc.evilcorp.ga
+[20-03-03 04:45:05]PING :irc.evilcorp.ga
+[20-03-03 04:47:05]PING :irc.evilcorp.ga
+[20-03-03 04:49:05]PING :irc.evilcorp.ga
+[20-03-03 04:51:05]PING :irc.evilcorp.ga
+[20-03-03 04:52:15]:Dusted!Dusted@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 04:52:15]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :Do What Thou Wilt
+[20-03-03 04:52:16]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Dusted
+[20-03-03 04:52:27]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :Dusted
+[20-03-03 04:53:05]PING :irc.evilcorp.ga
+[20-03-03 04:53:40]:Jaxx!Jaxx@Ultimate.Warrior JOIN :#lobby
+[20-03-03 04:53:40]:irc.evilcorp.ga MODE #lobby +y :Jaxx
+[20-03-03 04:53:40]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :sTaY eViL Jaxx
+[20-03-03 04:53:40]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Jaxx
+[20-03-03 04:54:22]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :wb!
+[20-03-03 04:55:05]PING :irc.evilcorp.ga
+[20-03-03 04:56:30]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :Thanks :D
+[20-03-03 04:57:00]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :busy night last night
+[20-03-03 04:57:07]PING :irc.evilcorp.ga
+[20-03-03 04:59:01]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :no worries :)
+[20-03-03 04:59:07]PING :irc.evilcorp.ga
+[20-03-03 04:59:13]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :oh. how so i mean
+[20-03-03 05:00:20]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :I had something very tasty for dinner just now
+[20-03-03 05:01:02]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :oh what was it?
+[20-03-03 05:01:07]PING :irc.evilcorp.ga
+[20-03-03 05:01:22]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :fishcakes of white salmon and cod with a mix of garlic and leeks
+[20-03-03 05:01:48]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :oooh that sounds great
+[20-03-03 05:01:51]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :good lunch
+[20-03-03 05:01:58]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :it is :D
+[20-03-03 05:03:08]PING :irc.evilcorp.ga
+[20-03-03 05:03:57]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i hate fish no offence but i hate fish
+[20-03-03 05:04:37]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :no offense at all. some people like it and some dont like it
+[20-03-03 05:04:49]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah
+[20-03-03 05:05:08]PING :irc.evilcorp.ga
+[20-03-03 05:06:42]:Jaxx_!raiden@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 05:06:42]:irc.evilcorp.ga MODE #lobby +y :Jaxx_
+[20-03-03 05:06:44]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :sTaY eViL Jaxx_
+[20-03-03 05:06:44]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Jaxx_
+[20-03-03 05:06:50]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :hi there Shadow_Lobster 
+[20-03-03 05:06:50]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :!
+[20-03-03 05:07:08]PING :irc.evilcorp.ga
+[20-03-03 05:07:22]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hi Dusted :)
+[20-03-03 05:07:40]:Jaxx_!raiden@irc.evilcorp.ga MODE #lobby :-B
+[20-03-03 05:07:51]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :how are you?
+[20-03-03 05:07:51]:Jaxx_!raiden@irc.evilcorp.ga PRIVMSG #lobby ::D
+[20-03-03 05:08:01]:Jaxx_!raiden@irc.evilcorp.ga PRIVMSG #lobby :im fine :D
+[20-03-03 05:08:10]:Jaxx_!raiden@irc.evilcorp.ga PRIVMSG #lobby :and you? :D
+[20-03-03 05:08:22]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :all good hehe
+[20-03-03 05:08:26]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :hbu Shadow_Lobster ?
+[20-03-03 05:08:27]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i am fine too just little pissed
+[20-03-03 05:08:31]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :why so?
+[20-03-03 05:08:51]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :my g key popped out and is broken
+[20-03-03 05:09:08]PING :irc.evilcorp.ga
+[20-03-03 05:09:12]:Jaxx_!raiden@irc.evilcorp.ga NICK :Ermac
+[20-03-03 05:09:16]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :oh no
+[20-03-03 05:09:59]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeh
+[20-03-03 05:10:11]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :no g's for you!
+[20-03-03 05:10:21]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 05:11:08]PING :irc.evilcorp.ga
+[20-03-03 05:11:33]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+[20-03-03 05:11:38]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :oof sorry
+[20-03-03 05:12:29]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :lol
+[20-03-03 05:13:10]PING :irc.evilcorp.ga
+[20-03-03 05:15:11]PING :irc.evilcorp.ga
+[20-03-03 05:15:54]:Ermac!raiden@Ultimate.Warrior PRIVMSG #lobby :Better
+[20-03-03 05:17:11]PING :irc.evilcorp.ga
+[20-03-03 05:17:43]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i amma pop another useless key and use it on g
+[20-03-03 05:18:02]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :there you go 
+[20-03-03 05:18:06]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :problem solved
+[20-03-03 05:18:14]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah
+[20-03-03 05:19:11]PING :irc.evilcorp.ga
+[20-03-03 05:19:45]:Ermac!raiden@Ultimate.Warrior PRIVMSG #lobby :omg.. stupid keyboard
+[20-03-03 05:20:10]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 05:20:40]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :the buttons are on different places on the laptop i got my linux on
+[20-03-03 05:21:08]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :not same as on my main laptop
+[20-03-03 05:21:11]PING :irc.evilcorp.ga
+[20-03-03 05:23:11]PING :irc.evilcorp.ga
+[20-03-03 05:25:11]PING :irc.evilcorp.ga
+[20-03-03 05:27:11]PING :irc.evilcorp.ga
+[20-03-03 05:28:18]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :now its time to set up the other servers on my weechat
+[20-03-03 05:29:11]PING :irc.evilcorp.ga
+[20-03-03 05:31:11]PING :irc.evilcorp.ga
+[20-03-03 05:33:11]PING :irc.evilcorp.ga
+[20-03-03 05:33:30]:Ermac!raiden@Ultimate.Warrior QUIT :The TLS connection was non-properly terminated.
+[20-03-03 05:33:58]:Ermac!raiden@Ultimate.Warrior JOIN :#lobby
+[20-03-03 05:33:58]:irc.evilcorp.ga MODE #lobby +y :Ermac
+[20-03-03 05:33:59]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :sTaY eViL Ermac
+[20-03-03 05:33:59]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Ermac
+[20-03-03 05:35:11]PING :irc.evilcorp.ga
+[20-03-03 05:36:30]:Fox!Fox@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 05:36:30]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :Fox
+[20-03-03 05:36:30]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :sTaY eViL Fox
+[20-03-03 05:36:30]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Fox
+[20-03-03 05:36:35]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :hi
+[20-03-03 05:36:40]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :wb :D
+[20-03-03 05:36:44]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ty
+[20-03-03 05:36:46]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :hiy Fox
+[20-03-03 05:36:54]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :hi Dusted
+[20-03-03 05:37:05]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :ACTION hugs the Fox
+[20-03-03 05:37:11]PING :irc.evilcorp.ga
+[20-03-03 05:39:11]:Ermac!raiden@Ultimate.Warrior QUIT :Consumed by Evil: WeeChat 1.9.1
+[20-03-03 05:39:11]PING :irc.evilcorp.ga
+[20-03-03 05:39:46]:Jaxx_!raiden@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 05:39:46]:irc.evilcorp.ga MODE #lobby +y :Jaxx_
+[20-03-03 05:39:46]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :sTaY eViL Jaxx_
+[20-03-03 05:39:47]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Jaxx_
+[20-03-03 05:41:11]PING :irc.evilcorp.ga
+[20-03-03 05:43:11]PING :irc.evilcorp.ga
+[20-03-03 05:43:35]:h3lkitty!h3lkitty@Evil.Kitty JOIN :#lobby
+[20-03-03 05:43:35]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +v :h3lkitty
+[20-03-03 05:43:35]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :sTaY eViL h3lkitty
+[20-03-03 05:43:35]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome h3lkitty
+[20-03-03 05:45:12]PING :irc.evilcorp.ga
+[20-03-03 05:45:54]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :hi h3lkitty
+[20-03-03 05:47:12]PING :irc.evilcorp.ga
+[20-03-03 05:47:26]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :hey fox
+[20-03-03 05:49:12]PING :irc.evilcorp.ga
+[20-03-03 05:50:53]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION walking around h3lkitty, sniffing
+[20-03-03 05:51:08]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :lol
+[20-03-03 05:51:12]PING :irc.evilcorp.ga
+[20-03-03 05:51:24]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :yeah, cookies
+[20-03-03 05:51:28]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION smell cookies
+[20-03-03 05:51:53]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :no cookies today
+[20-03-03 05:52:01]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :sad day :(
+[20-03-03 05:52:02]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :dusted?
+[20-03-03 05:52:07]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :i got chicken wings 
+[20-03-03 05:52:20]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :hi LODA!
+[20-03-03 05:52:26]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ACTION gives fox the chicken wings
+[20-03-03 05:52:28]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby ::D hi
+[20-03-03 05:52:39]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :h3lkitty - thank you, but i don't eat meat :)
+[20-03-03 05:52:40]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :how are you?
+[20-03-03 05:52:42]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :i have something to show you :3 
+[20-03-03 05:52:45]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :wait a minute
+[20-03-03 05:52:50]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :ok
+[20-03-03 05:52:51]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ACTION shares the chicken wings with Dusted and LODA is well
+[20-03-03 05:53:00]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :oooh nice, thank h3lkitty 
+[20-03-03 05:53:06]:ItsME!ItsME@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 05:53:07]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :sTaY eViL ItsME
+[20-03-03 05:53:07]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome ItsME
+[20-03-03 05:53:12]PING :irc.evilcorp.ga
+[20-03-03 05:53:15]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :so nothing for me?
+[20-03-03 05:53:20]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :oof sorry fox :(
+[20-03-03 05:53:26]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby ::(
+[20-03-03 05:53:35]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :h3lkitty - no problem, there is many others who would
+[20-03-03 05:53:46]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :like Shadow_Lobster, for example
+[20-03-03 05:53:47]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby ::)
+[20-03-03 05:53:51]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :even i was a vegeterian before fox.. i recently started eating meat
+[20-03-03 05:53:58]:ItsME!ItsME@irc.evilcorp.ga PRIVMSG #lobby :Hello papaws
+[20-03-03 05:54:10]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :hello ItsME 
+[20-03-03 05:54:16]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :h3lkitty - its all good
+[20-03-03 05:54:30]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :fox - :D
+[20-03-03 05:54:49]:ItsME!ItsME@irc.evilcorp.ga PRIVMSG #lobby :Whats ur favorite browser (For personal use)?
+[20-03-03 05:55:07]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :i likey firefox
+[20-03-03 05:55:09]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :firefox
+[20-03-03 05:55:12]PING :irc.evilcorp.ga
+[20-03-03 05:55:14]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :oh =)
+[20-03-03 05:55:21]:ItsME!ItsME@irc.evilcorp.ga PRIVMSG #lobby :me too
+[20-03-03 05:55:23]:ItsME!ItsME@irc.evilcorp.ga PRIVMSG #lobby :=)
+[20-03-03 05:55:25]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION feels on fire
+[20-03-03 05:55:31]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :and the survey says!
+[20-03-03 05:55:33]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION bows
+[20-03-03 05:55:38]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :firfoxy wins!
+[20-03-03 05:55:49]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :chrome looks way too ugly .. 
+[20-03-03 05:56:10]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :i like that firefox tries to do security a bit
+[20-03-03 05:56:19]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ikr dusted
+[20-03-03 05:56:29]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :and firefox send file host is neat
+[20-03-03 05:56:54]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :firefox plus touch vpn plus ghostery ad blocker and my browser looks neat and clean :)
+[20-03-03 05:57:14]PING :irc.evilcorp.ga
+[20-03-03 05:59:04]:ItsME!ItsME@irc.evilcorp.ga PRIVMSG #lobby :I just tried Brave browser today, its weird and have a lot of built in features, unfortunately its chromium, not opensource
+[20-03-03 05:59:14]PING :irc.evilcorp.ga
+[20-03-03 05:59:36]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :yeah even brave is good 
+[20-03-03 06:00:20]:ItsME!ItsME@irc.evilcorp.ga PRIVMSG #lobby :Also it has a built in tor mode for private browsing, which made me download the one, tbh, but only on windows, mac and mobiles
+[20-03-03 06:01:14]PING :irc.evilcorp.ga
+[20-03-03 06:01:43]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :even all browsers have a private browsing tab itsme i guess? :/
+[20-03-03 06:02:26]:ItsME!ItsME@irc.evilcorp.ga PRIVMSG #lobby :no, i mean , Brave added new feature, which built with tor
+[20-03-03 06:03:14]PING :irc.evilcorp.ga
+[20-03-03 06:03:25]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :oooh i see :o
+[20-03-03 06:04:15]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP JOIN :#lobby
+[20-03-03 06:04:15]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :sTaY eViL Ymous
+[20-03-03 06:04:15]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Ymous
+[20-03-03 06:05:14]PING :irc.evilcorp.ga
+[20-03-03 06:07:15]PING :irc.evilcorp.ga
+[20-03-03 06:08:07]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :hello Ymous
+[20-03-03 06:09:15]PING :irc.evilcorp.ga
+[20-03-03 06:09:24]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :laters taters
+[20-03-03 06:09:26]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :: )
+[20-03-03 06:09:29]:Dusted!Dusted@The.Psychonaut QUIT :Consumed by Evil: Page closed
+[20-03-03 06:11:15]PING :irc.evilcorp.ga
+[20-03-03 06:12:19]:Jaxx_!raiden@irc.evilcorp.ga QUIT :Consumed by Evil: WeeChat 1.9.1
+[20-03-03 06:13:16]PING :irc.evilcorp.ga
+[20-03-03 06:15:16]PING :irc.evilcorp.ga
+[20-03-03 06:17:16]PING :irc.evilcorp.ga
+[20-03-03 06:19:16]PING :irc.evilcorp.ga
+[20-03-03 06:19:34]:h3lkitty!h3lkitty@Evil.Kitty QUIT :Ping timeout: 120 seconds
+[20-03-03 06:21:16]PING :irc.evilcorp.ga
+[20-03-03 06:23:16]PING :irc.evilcorp.ga
+[20-03-03 06:25:16]PING :irc.evilcorp.ga
+[20-03-03 06:27:16]PING :irc.evilcorp.ga
+[20-03-03 06:27:46]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION *sighs*
+[20-03-03 06:28:31]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[meh]: hi fox
+[20-03-03 06:29:14]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :hey Meh
+[20-03-03 06:29:16]PING :irc.evilcorp.ga
+[20-03-03 06:30:00]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[meh]: whats up?
+[20-03-03 06:31:03]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :not much, sorting meself out
+[20-03-03 06:31:16]PING :irc.evilcorp.ga
+[20-03-03 06:32:11]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[meh]: :P
+[20-03-03 06:33:05]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :any one here tried for vanity onion address? 
+[20-03-03 06:33:16]PING :irc.evilcorp.ga
+[20-03-03 06:33:25]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :not with v3
+[20-03-03 06:33:30]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby ::/
+[20-03-03 06:33:55]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[meh]: nope
+[20-03-03 06:34:01]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :i just started to generate some. 6 core server. 8 characters long 
+[20-03-03 06:34:19]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :it takes upto? one day?
+[20-03-03 06:35:16]PING :irc.evilcorp.ga
+[20-03-03 06:35:46]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :8 characters?
+[20-03-03 06:37:16]PING :irc.evilcorp.ga
+[20-03-03 06:37:25]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :roughly... if server is configured optimally.. under week
+[20-03-03 06:37:37]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :mining takes time.
+[20-03-03 06:39:16]PING :irc.evilcorp.ga
+[20-03-03 06:39:21]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby ::/
+[20-03-03 06:39:42]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :will see
+[20-03-03 06:41:16]PING :irc.evilcorp.ga
+[20-03-03 06:41:45]:Ermac!Ermac@Ultimate.Warrior JOIN :#lobby
+[20-03-03 06:41:45]:irc.evilcorp.ga MODE #lobby +y :Ermac
+[20-03-03 06:41:45]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :sTaY eViL Ermac
+[20-03-03 06:41:45]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Ermac
+[20-03-03 06:43:16]PING :irc.evilcorp.ga
+[20-03-03 06:43:45]:polpot!polpot@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 06:43:45]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :sTaY eViL polpot
+[20-03-03 06:43:45]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome polpot
+[20-03-03 06:43:47]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :polpot
+[20-03-03 06:45:02]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION pats polpot
+[20-03-03 06:45:16]PING :irc.evilcorp.ga
+[20-03-03 06:45:22]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ok so Megatron is going offline for a day or so
+[20-03-03 06:45:34]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :he will be back in 12-24 hours  hopefully
+[20-03-03 06:45:41]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :-8ball you ready?
+[20-03-03 06:45:41]:Megatron!BASHBOT@The.Punisher PRIVMSG #lobby :OBVIOUSLY!!!
+[20-03-03 06:45:44]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :XD
+[20-03-03 06:45:55]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :you already know whats going on i see
+[20-03-03 06:45:58]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :bye Megatron
+[20-03-03 06:47:16]PING :irc.evilcorp.ga
+[20-03-03 06:49:16]PING :irc.evilcorp.ga
+[20-03-03 06:50:30]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :ACTION pets Fox 
+[20-03-03 06:51:16]PING :irc.evilcorp.ga
+[20-03-03 06:51:25]:Shadow_Lobster_!Shadow@irc.evilcorp.ga JOIN :#lobster
+[20-03-03 06:51:25]:Shadow_Lobster_!Shadow@irc.evilcorp.ga JOIN :#bots
+[20-03-03 06:51:25]:Shadow_Lobster_!Shadow@irc.evilcorp.ga JOIN :#BashWizards
+[20-03-03 06:51:25]:Shadow_Lobster_!Shadow@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 06:51:25]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Shadow_Lobster_
+[20-03-03 06:51:42]:Megatron!BASHBOT@The.Punisher QUIT :Ping timeout: 120 seconds
+[20-03-03 06:52:35]:ItsME!ItsME@irc.evilcorp.ga QUIT :Consumed by Evil: Page closed
+[20-03-03 06:53:06]:PatientZer0!TripleZer0@Golden.Legend QUIT :Ping timeout: 120 seconds
+[20-03-03 06:53:16]PING :irc.evilcorp.ga
+[20-03-03 06:53:18]:Shadow_Lobster!Shadow@Man.With.Claws QUIT :Ping timeout: 120 seconds
+[20-03-03 06:53:20]:Shadow_Lobster_!Shadow@irc.evilcorp.ga NICK :Shadow_Lobster
+[20-03-03 06:53:24]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +v :Shadow_Lobster
+[20-03-03 06:53:24]:PerlMonk!PerlMonk@Terminal.Slayer MODE #BashWizards +ao Shadow_Lobster :Shadow_Lobster
+[20-03-03 06:53:24]:IronGolm!Iron@Golm MODE #lobster +qo Shadow_Lobster :Shadow_Lobster
+[20-03-03 06:53:40]:TripleZer0!TripleZer0@Golden.Legend QUIT :Ping timeout: 120 seconds
+[20-03-03 06:55:17]PING :irc.evilcorp.ga
+[20-03-03 06:55:20]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :ACTION pets Fox
+[20-03-03 06:55:31]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION feel surrounded with love
+[20-03-03 06:55:37]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :pet me pet me!!!
+[20-03-03 06:55:43]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ACTION pets fox
+[20-03-03 06:57:13]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :ACTION pets Fox in the special place
+[20-03-03 06:57:17]PING :irc.evilcorp.ga
+[20-03-03 06:57:45]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :oh?
+[20-03-03 06:57:49]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :special place?
+[20-03-03 06:58:00]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :under the tail
+[20-03-03 06:58:00]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :like furry special dungeon?
+[20-03-03 06:58:13]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :rawr
+[20-03-03 06:58:13]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :oh no! me tail was penetrated!!!
+[20-03-03 06:58:23]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :tail wasn't the only thing penetrated
+[20-03-03 06:58:29]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :I have dildo shaped hooves
+[20-03-03 06:58:37]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 06:59:11]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :omg
+[20-03-03 06:59:16]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :polpot, save me!
+[20-03-03 06:59:17]PING :irc.evilcorp.ga
+[20-03-03 06:59:24]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :i am being loved!
+[20-03-03 06:59:32]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :forcefully
+[20-03-03 06:59:41]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :lol
+[20-03-03 06:59:48]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :I have four hooves, Fox, Shadow_Lobster, polpot 
+[20-03-03 06:59:51]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :and one for myself
+[20-03-03 07:00:05]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :that makes 5
+[20-03-03 07:00:32]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :Fox... Shadow_Lobster... polpot... dusty....
+[20-03-03 07:00:34]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :you don't have 5 hove, do you?
+[20-03-03 07:00:36]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :no, thats four
+[20-03-03 07:00:41]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION takes two hoves..
+[20-03-03 07:00:44]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :rawr
+[20-03-03 07:00:52]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :that second one ain't a hoof ;)
+[20-03-03 07:01:08]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :gimme my hoof back
+[20-03-03 07:01:13]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :or i cry
+[20-03-03 07:01:17]PING :irc.evilcorp.ga
+[20-03-03 07:01:20]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :cry for me bitch
+[20-03-03 07:01:33]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :awemm. dusty, that makes one available spot
+[20-03-03 07:01:46]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :'slot' lol
+[20-03-03 07:01:51]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :two hoves and one nonhove for me
+[20-03-03 07:01:55]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ok, slot
+[20-03-03 07:02:06]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :still, you short on count
+[20-03-03 07:02:09]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ACTION cries and screams in dusty's ears
+[20-03-03 07:02:36]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :I need more apendages 
+[20-03-03 07:02:44]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :ya'll need my satisfaction
+[20-03-03 07:02:44]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :like what?
+[20-03-03 07:02:53]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :Dildos coming out me tits
+[20-03-03 07:03:12]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 07:03:17]PING :irc.evilcorp.ga
+[20-03-03 07:04:04]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :that is unnatural
+[20-03-03 07:04:13]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION is refusing to be part of that....
+[20-03-03 07:04:15]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :that...
+[20-03-03 07:04:19]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :they're fleshy
+[20-03-03 07:04:25]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :basically just really swollen nipples
+[20-03-03 07:04:36]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :i will pass on that
+[20-03-03 07:04:39]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :lol
+[20-03-03 07:04:51]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :hooves in the ass is fine, but dildos for tits is going to far xD
+[20-03-03 07:05:07]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :I'm going home
+[20-03-03 07:05:09]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :later ya'll
+[20-03-03 07:05:17]PING :irc.evilcorp.ga
+[20-03-03 07:05:26]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :cya
+[20-03-03 07:05:35]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ok bye
+[20-03-03 07:05:52]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :urban hooves
+[20-03-03 07:05:53]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :It's like a camel toe, only WAY WORSE
+[20-03-03 07:05:54]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Debbie wears Lee Jeans from the early 80's that give her a giant HOOVE in the front.
+[20-03-03 07:06:06]:LODA!LODA@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-03 07:06:52]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :urban Ermac
+[20-03-03 07:06:53]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :red ninja in the popular mortal kombat games, characterised by telekinetiic powers and green energy blasts. appeared as a secret battle in MK2, as an unlockable in MK3: Ultimate, and in the latest game in the series, deception. he was a creation of sorcery, many souls binded to become one by the forces of evil. has since broken that stranglehold and become a free agent for good
+[20-03-03 07:06:53]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Ermac was the greatest character
+[20-03-03 07:07:17]PING :irc.evilcorp.ga
+[20-03-03 07:08:35]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :urban Tails
+[20-03-03 07:08:36]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :The best (unique) video game character ever created who is still alive! Since 1992! 
+[20-03-03 07:08:36]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :All sonic games, beat that!
+[20-03-03 07:09:09]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ACTION pulls Fox's tail
+[20-03-03 07:09:14]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :Urban cannot spell this
+[20-03-03 07:09:15]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :A lost art.
+[20-03-03 07:09:16]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :wuht ish teh speling tset? O_o
+[20-03-03 07:09:17]PING :irc.evilcorp.ga
+[20-03-03 07:09:27]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :Urban cannot spell SHIТ
+[20-03-03 07:09:27]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Not Found
+[20-03-03 07:10:35]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :"Tails
+[20-03-03 07:10:36]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :The famous two tailed fox sidekick of Sonic in almost every Sonic the Hedgehog game since Sonic 2 for Genesis. He is a kind hearted fox who can fly for a few seconds by swinging his two tails back and forth very fast and use his tails to accellerate himself to very fast speed when running. He is extremely skilled with machanics about as skilled, if not more skilled, than Dr. Ivo "Eggman" Robotnik. "
+[20-03-03 07:10:49]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :machanics
+[20-03-03 07:11:17]PING :irc.evilcorp.ga
+[20-03-03 07:11:49]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :KMP
+[20-03-03 07:12:57]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :i am not even talking about loredom canon fuсked up as well
+[20-03-03 07:13:05]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION *sighs*
+[20-03-03 07:13:16]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :urban hmmmm???
+[20-03-03 07:13:17]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Used when monged out when pondering something of maximum simplicity!
+[20-03-03 07:13:17]PING :irc.evilcorp.ga
+[20-03-03 07:13:17]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Chris: Whats the first letter of the alphabet?
+[20-03-03 07:15:17]PING :irc.evilcorp.ga
+[20-03-03 07:17:17]PING :irc.evilcorp.ga
+[20-03-03 07:19:17]PING :irc.evilcorp.ga
+[20-03-03 07:21:17]PING :irc.evilcorp.ga
+[20-03-03 07:21:42]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :~
+[20-03-03 07:23:17]PING :irc.evilcorp.ga
+[20-03-03 07:25:17]PING :irc.evilcorp.ga
+[20-03-03 07:27:17]PING :irc.evilcorp.ga
+[20-03-03 07:29:17]PING :irc.evilcorp.ga
+[20-03-03 07:30:10]:TripleZer0!TripleZer0@EvilCorpsab.h7q.o50uah.IP JOIN :#lobby
+[20-03-03 07:30:11]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome TripleZer0
+[20-03-03 07:30:15]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :TripleZer0
+[20-03-03 07:30:24]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :wb :D
+[20-03-03 07:30:29]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :hi
+[20-03-03 07:31:17]PING :irc.evilcorp.ga
+[20-03-03 07:33:12]:TripleZer0_!TripleZer0@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 07:33:13]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome TripleZer0_
+[20-03-03 07:33:17]PING :irc.evilcorp.ga
+[20-03-03 07:33:19]:TripleZer0_!TripleZer0@irc.evilcorp.ga PRIVMSG #lobby :hmm
+[20-03-03 07:33:38]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :oh ok im here
+[20-03-03 07:33:52]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ok cool
+[20-03-03 07:34:12]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol 
+[20-03-03 07:34:15]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ok lol
+[20-03-03 07:34:16]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :xD
+[20-03-03 07:34:31]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hows everything bro?
+[20-03-03 07:34:53]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :good good
+[20-03-03 07:35:01]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :im just trying to back files up rn
+[20-03-03 07:35:11]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i got like that sexy demon chick i made 
+[20-03-03 07:35:11]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :oh ok
+[20-03-03 07:35:15]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :megatrons files
+[20-03-03 07:35:17]PING :irc.evilcorp.ga
+[20-03-03 07:35:24]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 07:35:30]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :sexy demon
+[20-03-03 07:35:31]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :although i dont need megatrons files ima do it anyways
+[20-03-03 07:35:34]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol yes
+[20-03-03 07:35:50]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :whats should be the server name you think?
+[20-03-03 07:35:58]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :since me and you are Bash Wizards
+[20-03-03 07:36:00]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :OOOO
+[20-03-03 07:36:08]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :TempleOfBasg
+[20-03-03 07:36:10]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :Bash*
+[20-03-03 07:36:16]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i am bad at naming things
+[20-03-03 07:36:18]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :BashTemple
+[20-03-03 07:36:20]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol
+[20-03-03 07:36:21]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :so you choose
+[20-03-03 07:36:58]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :BashTemple
+[20-03-03 07:37:17]PING :irc.evilcorp.ga
+[20-03-03 07:37:18]:TripleZer0_!TripleZer0@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-03 07:37:19]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ok
+[20-03-03 07:39:17]PING :irc.evilcorp.ga
+[20-03-03 07:40:17]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :windiws server 2012 to be installed as soon as i can find the disk lol
+[20-03-03 07:40:53]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :disk plz dont vanish
+[20-03-03 07:41:17]PING :irc.evilcorp.ga
+[20-03-03 07:42:10]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :why windows 12 server?
+[20-03-03 07:42:39]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :why not windows 12 server?
+[20-03-03 07:43:16]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :cause
+[20-03-03 07:43:17]PING :irc.evilcorp.ga
+[20-03-03 07:43:32]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i cant figure out rdp with ubuntu 
+[20-03-03 07:43:35]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :its been a pain 
+[20-03-03 07:43:45]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ubuntu server*
+[20-03-03 07:45:17]PING :irc.evilcorp.ga
+[20-03-03 07:47:11]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :finally found the disk
+[20-03-03 07:47:17]PING :irc.evilcorp.ga
+[20-03-03 07:47:20]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :neat
+[20-03-03 07:49:17]PING :irc.evilcorp.ga
+[20-03-03 07:50:23]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :RDP??? with ubuntu?
+[20-03-03 07:50:27]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :why?
+[20-03-03 07:50:48]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :sorry for asking, i may not be getting something important
+[20-03-03 07:51:17]PING :irc.evilcorp.ga
+[20-03-03 07:53:17]PING :irc.evilcorp.ga
+[20-03-03 07:53:29]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :the server is supposed to be stationary 
+[20-03-03 07:53:39]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :and i can connect from it anywhere
+[20-03-03 07:53:57]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :now i would also like Shadow_Lobster to have access as well 
+[20-03-03 07:54:02]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ya see 
+[20-03-03 07:54:23]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :so farck all the tediousness and we will just have linux vms 
+[20-03-03 07:54:23]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :why not ssh?
+[20-03-03 07:54:26]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ee yeah he a cool bro
+[20-03-03 07:54:32]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :oh ok
+[20-03-03 07:54:36]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol 
+[20-03-03 07:54:54]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i tried ssh 
+[20-03-03 07:55:00]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :but i always wanted gui 
+[20-03-03 07:55:17]PING :irc.evilcorp.ga
+[20-03-03 07:56:21]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i fell in love with a gui and her name was gnome
+[20-03-03 07:56:22]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I like the keyboard more then my mouse, can do more, more quickly I find
+[20-03-03 07:56:41]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :some people are diffrent
+[20-03-03 07:56:43]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :same, I love gnome
+[20-03-03 07:57:06]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :but still like kb more then mouse
+[20-03-03 07:57:10]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :CDBOOT: Couldnt find BOOTMGR
+[20-03-03 07:57:11]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :wtf
+[20-03-03 07:57:17]PING :irc.evilcorp.ga
+[20-03-03 07:57:25]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :try again, clean disk lol
+[20-03-03 07:57:42]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i just did it twice 
+[20-03-03 07:57:44]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :same thing
+[20-03-03 07:57:55]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :reburn it...?
+[20-03-03 07:58:01]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :not a burn 
+[20-03-03 07:58:06]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :oh ****
+[20-03-03 07:58:08]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :its a legit disk
+[20-03-03 07:58:09]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby ::(
+[20-03-03 07:58:11]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :copy and burn
+[20-03-03 07:58:13]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol
+[20-03-03 07:58:30]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I've done it
+[20-03-03 07:59:05]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i was lied to 
+[20-03-03 07:59:11]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :its server 2012 lol
+[20-03-03 07:59:17]PING :irc.evilcorp.ga
+[20-03-03 07:59:18]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :2011***
+[20-03-03 07:59:35]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :oh lol, thats not cool
+[20-03-03 07:59:35]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :oh no 
+[20-03-03 07:59:58]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol
+[20-03-03 08:00:28]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :dont i gotta fix the mbr tho?
+[20-03-03 08:00:38]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ε(´סּ︵סּ`)з
+[20-03-03 08:00:38]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :copying and burning rn would take all day 
+[20-03-03 08:00:52]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :no one in this shop has fast computers
+[20-03-03 08:01:17]PING :irc.evilcorp.ga
+[20-03-03 08:02:12]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :At least a couple hours, but yeah, mbr needs to be ok, you can check the image after you copy
+[20-03-03 08:02:30]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :hmm 
+[20-03-03 08:02:51]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :maybe its cause my hard drive shows up twice in boot options
+[20-03-03 08:03:00]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :like 2 times as an option
+[20-03-03 08:03:11]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :with 1 partition?
+[20-03-03 08:03:17]PING :irc.evilcorp.ga
+[20-03-03 08:03:27]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :yea
+[20-03-03 08:03:37]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :sounds like a failed install happened
+[20-03-03 08:03:45]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :failed install?
+[20-03-03 08:03:54]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :like boot record failed?
+[20-03-03 08:04:02]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ubuntu server boots fine tho
+[20-03-03 08:04:07]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i do have another hard drive
+[20-03-03 08:04:18]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :well there should only be one 
+[20-03-03 08:04:25]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :for windopws
+[20-03-03 08:04:31]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :hmm
+[20-03-03 08:04:50]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ill just unplug ubuntu drive and plug in an old windows drive
+[20-03-03 08:05:06]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :yeah 
+[20-03-03 08:05:17]PING :irc.evilcorp.ga
+[20-03-03 08:05:34]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :still dont know how ima mount this secound drive XD
+[20-03-03 08:06:22]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :it isnt a slim line pc or anything but it only has one tray and not even a fuctional slot for a cd drive
+[20-03-03 08:06:46]:Ermac!Ermac@Ultimate.Warrior QUIT :Consumed by Evil: WeeChat 1.9.1
+[20-03-03 08:07:17]PING :irc.evilcorp.ga
+[20-03-03 08:07:22]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :emac
+[20-03-03 08:07:39]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :e machine!!!
+[20-03-03 08:08:09]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Thats odd that your 1 hard drive shows 2 times even thouogh there is only 1 partition, this is during windows install right?
+[20-03-03 08:08:19]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :yea
+[20-03-03 08:08:23]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :yeah wow
+[20-03-03 08:08:24]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i mean
+[20-03-03 08:08:25]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :lol
+[20-03-03 08:08:28]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :its ubuntu 
+[20-03-03 08:08:38]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :its ubuntu server installed on one partition 
+[20-03-03 08:08:51]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :and when i look at boot options it showed it twice 
+[20-03-03 08:08:53]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I've used arch and kali and haven't seen that one yet
+[20-03-03 08:09:07]:Jaxx!Jaxx@Ultimate.Warrior QUIT :Consumed by Evil: bbl
+[20-03-03 08:09:10]:h3lkitty!h3lkitty@Evil.Kitty JOIN :#lobby
+[20-03-03 08:09:10]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +v :h3lkitty
+[20-03-03 08:09:10]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome h3lkitty
+[20-03-03 08:09:17]PING :irc.evilcorp.ga
+[20-03-03 08:09:33]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol idk this pc build is thrown together in a bad way haha
+[20-03-03 08:09:43]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :can you boot into either ubuntu server or just normal ubuntu? I'm unfamiliar with it
+[20-03-03 08:09:54]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ever part has been taken from another used pc lol
+[20-03-03 08:09:59]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :yes
+[20-03-03 08:10:04]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :it boots just fine
+[20-03-03 08:10:22]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :hello ^^
+[20-03-03 08:10:28]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i may have more luck with the windows 10 hard drive i have 
+[20-03-03 08:10:30]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :hello
+[20-03-03 08:10:30]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :maybe its setup kind of like kali where it makes a swap drive and ext4 and such
+[20-03-03 08:10:40]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :must be
+[20-03-03 08:10:48]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :that would answer it
+[20-03-03 08:11:07]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :it booted past my cd drive so im thinking i can use windows gui to open the disc when i get back in that room 
+[20-03-03 08:11:13]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :had to **** HAHA
+[20-03-03 08:11:17]PING :irc.evilcorp.ga
+[20-03-03 08:12:24]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I've installed windows using a disk drive in another pc over a network, you could also mageyver the disc drive on top of you tower
+[20-03-03 08:13:00]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :cd not disc
+[20-03-03 08:13:05]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :or whatever
+[20-03-03 08:13:17]PING :irc.evilcorp.ga
+[20-03-03 08:14:09]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :You can always use the proper key and a downloaded image, then burn it
+[20-03-03 08:14:29]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :or usb key
+[20-03-03 08:14:35]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :yea
+[20-03-03 08:15:07]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :rufus or etcher should be ok I think, not sure which I used last time
+[20-03-03 08:15:17]PING :irc.evilcorp.ga
+[20-03-03 08:15:28]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :think i got it...
+[20-03-03 08:15:35]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :gj bro
+[20-03-03 08:16:01]:sakura!h3lkitty@Evil.Kitty JOIN :#lobby
+[20-03-03 08:16:01]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +v :sakura
+[20-03-03 08:16:01]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :MY CHEMICAL ROMANCE
+[20-03-03 08:16:01]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome sakura
+[20-03-03 08:16:07]:h3lkitty!h3lkitty@Evil.Kitty QUIT :Ping timeout: 120 seconds
+[20-03-03 08:16:10]:sakura!h3lkitty@Evil.Kitty PRIVMSG #lobby :my stupid internet -_-
+[20-03-03 08:16:12]:sakura!h3lkitty@Evil.Kitty NICK :h3lkitty
+[20-03-03 08:16:18]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :nope
+[20-03-03 08:16:23]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :this is windows 10 
+[20-03-03 08:16:24]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :aw
+[20-03-03 08:16:24]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol 
+[20-03-03 08:16:26]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :hi ^^
+[20-03-03 08:16:28]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION hugs h3lkitty
+[20-03-03 08:16:36]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :he gave me a fresh windows 10 hard drive.... BOI
+[20-03-03 08:16:43]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :love that Tshirt
+[20-03-03 08:17:03]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Tshirt eh
+[20-03-03 08:17:04]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 08:17:07]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :lol
+[20-03-03 08:17:12]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :damn
+[20-03-03 08:17:12]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :omg im so dumb 
+[20-03-03 08:17:17]PING :irc.evilcorp.ga
+[20-03-03 08:17:17]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :just revealed myeslef
+[20-03-03 08:17:28]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :u said mcr and im over here just computer talk 
+[20-03-03 08:17:31]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i love mcr 
+[20-03-03 08:17:33]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah MY CHEMICAL ROMANCE
+[20-03-03 08:17:45]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ACTION hugs fox
+[20-03-03 08:18:08]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i am talking about your shirt
+[20-03-03 08:18:18]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :mine?
+[20-03-03 08:18:23]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah
+[20-03-03 08:18:28]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol which one
+[20-03-03 08:18:32]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :black and blue 
+[20-03-03 08:18:33]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :the white one
+[20-03-03 08:18:35]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :black and red
+[20-03-03 08:18:37]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :you guys physically known one another?
+[20-03-03 08:18:39]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :oh the white one
+[20-03-03 08:18:44]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :nah but we close enough 
+[20-03-03 08:18:49]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :nice
+[20-03-03 08:18:49]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yup
+[20-03-03 08:18:50]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :how is everyone today? :D
+[20-03-03 08:18:54]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :good
+[20-03-03 08:18:57]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :kicking face
+[20-03-03 08:18:59]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :and u 
+[20-03-03 08:19:05]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :fine hbu
+[20-03-03 08:19:08]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :made an onion site for sharing links and stuff
+[20-03-03 08:19:09]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :idk, stoned?
+[20-03-03 08:19:15]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol
+[20-03-03 08:19:17]PING :irc.evilcorp.ga
+[20-03-03 08:19:21]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :nice ymous
+[20-03-03 08:19:22]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :will be stoned shortly
+[20-03-03 08:19:23]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ACTION lights a cig
+[20-03-03 08:19:28]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :yeah
+[20-03-03 08:19:30]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i need cig!!!!
+[20-03-03 08:19:30]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :thanks
+[20-03-03 08:19:41]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I'll link if people want
+[20-03-03 08:19:51]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :just made it a couple hours ago
+[20-03-03 08:19:53]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :if i only had a way to save it rn 
+[20-03-03 08:20:01]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :lol
+[20-03-03 08:20:01]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :remind meee
+[20-03-03 08:20:07]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :can do
+[20-03-03 08:20:09]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION lights up dynamite stick fuse.
+[20-03-03 08:20:15]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i am your backup
+[20-03-03 08:20:18]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :so gimme
+[20-03-03 08:20:31]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :http://pyaklpzeu2ylelc3h37ubsbu66ojn2o5vmujouudbduzlxtzvop2yvqd.onion/
+[20-03-03 08:20:36]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ACTION gives TripleZer0 a cig
+[20-03-03 08:20:42]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol 
+[20-03-03 08:20:50]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ACTION lights the cig
+[20-03-03 08:20:54]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :making an account will email your junk mailbox just so you all know
+[20-03-03 08:20:55]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :thanks bro
+[20-03-03 08:21:01]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :give me the ****ing chicken h3lkitty
+[20-03-03 08:21:02]:Fox!Fox@irc.evilcorp.ga QUIT :Consumed by Evil: *kaboom*
+[20-03-03 08:21:11]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol the ****ing chicken?
+[20-03-03 08:21:13]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :np
+[20-03-03 08:21:17]PING :irc.evilcorp.ga
+[20-03-03 08:21:21]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah to eat
+[20-03-03 08:21:30]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :she didnt gave me
+[20-03-03 08:21:33]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :also i can smoke as many cigs as i want here lol cant kill me
+[20-03-03 08:21:42]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :damn straight
+[20-03-03 08:21:49]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :i ate it shadow_lobster, i am stoned :( sorry
+[20-03-03 08:21:59]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby ::(
+[20-03-03 08:22:20]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :;-;
+[20-03-03 08:22:24]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :will definately save for you next time shadow_lobster :)
+[20-03-03 08:22:45]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ok :(
+[20-03-03 08:22:47]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :my brain is gonna die
+[20-03-03 08:22:59]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :the disc doesnt just install the os
+[20-03-03 08:23:06]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Damn, I'd smoke you all given we met irl
+[20-03-03 08:23:09]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :...windows server has all these steps WTH
+[20-03-03 08:23:17]PING :irc.evilcorp.ga
+[20-03-03 08:23:17]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :smoke concentrates only now though
+[20-03-03 08:23:28]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ymous as in thc?
+[20-03-03 08:23:35]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :yeah
+[20-03-03 08:23:57]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :shatter, live resin, htfse, sometimes bho
+[20-03-03 08:24:10]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :fun 
+[20-03-03 08:24:15]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :very
+[20-03-03 08:24:24]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :one toke is usually enough
+[20-03-03 08:24:38]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :anon-Ymous
+[20-03-03 08:24:49]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :oh coool
+[20-03-03 08:24:51]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :can be scary if you panic though,
+[20-03-03 08:25:00]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :ya you called it shadow_lobster
+[20-03-03 08:25:12]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :not bad eh
+[20-03-03 08:25:17]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :lol
+[20-03-03 08:25:17]PING :irc.evilcorp.ga
+[20-03-03 08:25:24]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :"claps"
+[20-03-03 08:25:46]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 08:26:25]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ugh! there should be an option on my fan regulator for the fan to spin clockwise too.. all the smoke is coming on me instead of going out from the window because it spins anticlockwise -_-
+[20-03-03 08:27:18]PING :irc.evilcorp.ga
+[20-03-03 08:27:34]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ma boi need help
+[20-03-03 08:27:55]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :help him pls iam shut up
+[20-03-03 08:28:01]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :huh?
+[20-03-03 08:28:02]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :turn it around 180 degrees, that what I would do, or you can open it up and reverse the neutral and positive wires, that will do it
+[20-03-03 08:28:08]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :to make it move smooth
+[20-03-03 08:28:13]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol
+[20-03-03 08:28:30]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :idk rn my head is ****ed from all this ****
+[20-03-03 08:28:39]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ACTION drinks water .. good to stay hyderated after hitting several bong shots
+[20-03-03 08:28:39]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah ik
+[20-03-03 08:28:46]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :you're learning though, no?
+[20-03-03 08:28:54]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :no 
+[20-03-03 08:28:59]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :**** all this tbh 
+[20-03-03 08:29:18]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ima just pirate the newest one or something
+[20-03-03 08:29:19]PING :irc.evilcorp.ga
+[20-03-03 08:29:38]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :not an activated one though
+[20-03-03 08:29:46]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ACTION doesn't feel nice
+[20-03-03 08:29:57]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :or is that how they all are?... instialling opks and **** over ur current os???
+[20-03-03 08:30:53]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :no, if you mean win server, then no that sounds wrong buddy, you're right to be worried
+[20-03-03 08:31:05]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :wtf is this then 
+[20-03-03 08:31:10]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i got an oem kit
+[20-03-03 08:31:19]PING :irc.evilcorp.ga
+[20-03-03 08:31:27]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :microsoft has downloadable images
+[20-03-03 08:31:35]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ACTION going through a bad trip :(
+[20-03-03 08:31:35]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :if you have a key get one of those
+[20-03-03 08:31:44]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :breathe
+[20-03-03 08:32:01]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i dont have a key ig 
+[20-03-03 08:32:06]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :just an oem disk
+[20-03-03 08:32:08]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :any key be enough like already used one?
+[20-03-03 08:32:48]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :until you go online, you can change it once you're booted into windows, so yeah just stay offline and you can use a used key
+[20-03-03 08:33:18]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i should just go get server 2016 ig cause i have no key
+[20-03-03 08:33:19]PING :irc.evilcorp.ga
+[20-03-03 08:33:29]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby : Server Standard - DBGBW-NPF86-BJVTX-K3WKJ-MTB6V
+[20-03-03 08:33:30]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby : Server Datacenter - Y4TGP-NPTV9-HTC2H-7MGQ3-DV4TW
+[20-03-03 08:33:31]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby : Server Essentials - K2XGM-NMBT3-2R6Q8-WF2FK-P36R2
+[20-03-03 08:33:34]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :the oem key is slipstreamed? if so you can retrieve it with power iso 
+[20-03-03 08:33:36]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :im try this oem bs firsr 
+[20-03-03 08:33:41]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :idk if those work
+[20-03-03 08:33:47]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :hmm
+[20-03-03 08:33:58]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i mean im trying this i cant complain yet ig
+[20-03-03 08:34:14]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :just has to pass the internal check, so they are probably ok
+[20-03-03 08:34:29]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :good man
+[20-03-03 08:34:40]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :im just lost why this isnt like an actualy iso that installs an os
+[20-03-03 08:34:48]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :but im lazy and a die hard 
+[20-03-03 08:35:20]PING :irc.evilcorp.ga
+[20-03-03 08:37:21]PING :irc.evilcorp.ga
+[20-03-03 08:37:42]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :D2N9P-3P6X9-2R39C-7RTCD-MDVJX
+[20-03-03 08:38:10]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :bro i dont need codes lol
+[20-03-03 08:38:14]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i think i got it
+[20-03-03 08:38:14]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :You guys watch the new episodes of Rick & Morty?
+[20-03-03 08:38:24]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Love that show, its to much
+[20-03-03 08:38:25]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :not a rick and morty guy ig
+[20-03-03 08:38:29]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :have no time
+[20-03-03 08:38:43]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :me neither never seen it
+[20-03-03 08:38:55]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I hear that, **** came out a while ago, I just got to it last night
+[20-03-03 08:39:22]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :you guys are in europe aren't you
+[20-03-03 08:39:22]PING :irc.evilcorp.ga
+[20-03-03 08:39:31]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :im in na
+[20-03-03 08:39:31]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :no
+[20-03-03 08:39:34]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :oooh
+[20-03-03 08:39:43]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :sorry then
+[20-03-03 08:39:49]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol 
+[20-03-03 08:39:58]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby ::D
+[20-03-03 08:40:01]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :u guys overseas dont get **** till later
+[20-03-03 08:40:13]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I'm in NA
+[20-03-03 08:40:13]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 08:40:19]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :oh ok 
+[20-03-03 08:40:22]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :was just busy
+[20-03-03 08:40:37]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :yeah, in the great white north
+[20-03-03 08:40:51]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :lots of snow and trees
+[20-03-03 08:40:57]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :NA = North America?
+[20-03-03 08:41:00]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :ye
+[20-03-03 08:41:15]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :cool
+[20-03-03 08:41:20]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i love snow
+[20-03-03 08:41:22]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :NA = Non applicable location 
+[20-03-03 08:41:22]PING :irc.evilcorp.ga
+[20-03-03 08:41:27]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i hate snow
+[20-03-03 08:41:35]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 08:41:49]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :all the action is on the pacific coast though I find, at least for my line of work, which is vfx
+[20-03-03 08:42:19]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :ok I'll keep that in mind for the future trippleZer0
+[20-03-03 08:43:06]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol
+[20-03-03 08:43:20]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i have never experienced snowing and i love christmas movies with snow
+[20-03-03 08:43:22]PING :irc.evilcorp.ga
+[20-03-03 08:43:27]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :and frozen
+[20-03-03 08:43:31]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Yeah, we get like enough to make your house disappear in a snow drift, no joke. I used to make snow forts that were bigger then some homes.
+[20-03-03 08:43:55]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :and that too snow forts snow man
+[20-03-03 08:44:00]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :way to much fun having wars with the neighbors
+[20-03-03 08:44:05]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :cool cool stuffs
+[20-03-03 08:44:15]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ima bah humbug guy 
+[20-03-03 08:44:25]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :leave me to my terminal alone please
+[20-03-03 08:44:28]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :someone always got hurt, thats how the fun always ended
+[20-03-03 08:44:36]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 08:44:47]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :not as much fun without a snowmobile
+[20-03-03 08:45:11]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i do like snowmobiles lol
+[20-03-03 08:45:22]PING :irc.evilcorp.ga
+[20-03-03 08:45:48]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :you all dont look at the bright side of snow thats why you hate it
+[20-03-03 08:46:16]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :some many drunk accidents with them, cause the cops can't chase them right, so they just giver, till they hit a raised chunk of ice that looks like a snow drift, or a tree cause they're going 180 km/h
+[20-03-03 08:46:47]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :ice on the lakes
+[20-03-03 08:46:55]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah
+[20-03-03 08:47:02]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :skating
+[20-03-03 08:47:22]PING :irc.evilcorp.ga
+[20-03-03 08:47:39]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :big boo if all that wont make snow good
+[20-03-03 08:48:06]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Oh yeah, I meant when it cracks and shifts and a snow drift hides the 3 feet ice wall that raised from the crack. Hiting those has killed a many drunks
+[20-03-03 08:48:45]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :But yeah ice skating is fun. They turn the rivers into long rink paths
+[20-03-03 08:49:22]PING :irc.evilcorp.ga
+[20-03-03 08:49:38]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :we have to pay to get temparature below 20 degrees(68 farenheit)
+[20-03-03 08:49:43]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :and that sucks
+[20-03-03 08:50:09]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :yeah, I agree
+[20-03-03 08:50:35]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :so you know snow good TripleZer0
+[20-03-03 08:50:41]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Although do you really want a winter with busses still taing kids to school when its -50 with the wind?
+[20-03-03 08:50:51]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yup
+[20-03-03 08:50:57]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :hmm
+[20-03-03 08:51:10]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :sorry too busy getting pissed lol
+[20-03-03 08:51:16]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 08:51:23]PING :irc.evilcorp.ga
+[20-03-03 08:51:26]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :turns out that this disc is just pre requisites 
+[20-03-03 08:51:36]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :like if ur an oem factory 
+[20-03-03 08:51:43]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :and you building servers to sell 
+[20-03-03 08:51:44]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :wowwie
+[20-03-03 08:51:48]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :lol
+[20-03-03 08:51:55]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :u use this and another disc 
+[20-03-03 08:52:00]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :omfg
+[20-03-03 08:52:05]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :wow
+[20-03-03 08:52:13]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :yea the guy couldnt tell me that when he gave it to me
+[20-03-03 08:52:13]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :so is it a cd-rom then?
+[20-03-03 08:52:16]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :yea
+[20-03-03 08:52:20]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I see
+[20-03-03 08:52:39]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yay progress
+[20-03-03 08:52:41]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :the iso only opens a menu to send u to links online about how to use the oem disc
+[20-03-03 08:52:43]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :no lol
+[20-03-03 08:52:47]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :back to square one
+[20-03-03 08:52:51]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Want me to find you a download link from microsoft for server 12
+[20-03-03 08:53:10]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :but still something than nothing
+[20-03-03 08:53:24]PING :irc.evilcorp.ga
+[20-03-03 08:53:28]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :hopefully your oem key is on that disc
+[20-03-03 08:54:09]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i got it
+[20-03-03 08:54:15]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :no its not 
+[20-03-03 08:54:25]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :that disc has nothing to do with server 
+[20-03-03 08:54:39]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :its for windows 7 prereqs 
+[20-03-03 08:54:43]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :it makes no sense
+[20-03-03 08:54:54]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :its just to get windows 7 ready for server
+[20-03-03 08:55:24]PING :irc.evilcorp.ga
+[20-03-03 08:55:56]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :Windows Server 2012 StandardXC9B7-NBPP2-83J2H-RHMBY-92BT4
+[20-03-03 08:55:58]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :Windows Server 2012 Datacenter48HP8-DN98B-MYWDG-T2DCC-8W83P
+[20-03-03 08:55:59]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :Windows Server 2012 R2 StandardD2N9P-3P6X9-2R39C-7RTCD-MDVJX
+[20-03-03 08:55:59]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :Windows Server 2012 R2 DatacenterW3GGN-FT8W3-Y4M27-J84CP-Q3VJ9
+[20-03-03 08:56:00]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 08:57:00]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :argh your a pirare
+[20-03-03 08:57:03]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :pirate!
+[20-03-03 08:57:19]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i love to be a pirate
+[20-03-03 08:57:21]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :15 mins left ugh 
+[20-03-03 08:57:24]PING :irc.evilcorp.ga
+[20-03-03 08:57:35]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :oh no
+[20-03-03 08:57:54]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :argh
+[20-03-03 08:58:00]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :supposedly windows server 2012 u dont need a code to use it
+[20-03-03 08:58:07]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :the took off the free period
+[20-03-03 08:58:13]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :but ima try to activate it
+[20-03-03 08:58:21]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :if i cant i wont waste much time
+[20-03-03 08:58:27]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :MORE IMPORTANT THINGS TO DOOOO
+[20-03-03 08:58:33]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah
+[20-03-03 08:58:41]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Priorities
+[20-03-03 08:59:24]PING :irc.evilcorp.ga
+[20-03-03 08:59:38]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :like setup the new server and get Shadow_Lobster and i a desktop 
+[20-03-03 08:59:48]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :so we can run our bots and work on projects
+[20-03-03 08:59:56]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i would like to bridge irc to irc 
+[20-03-03 08:59:58]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :would be cool
+[20-03-03 09:00:07]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yup
+[20-03-03 09:00:15]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :yeah that sounds sweet
+[20-03-03 09:00:18]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :maybe see what jaxx thinks about bridging us to another server #lobby 
+[20-03-03 09:00:42]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :never gonna happen mark my words
+[20-03-03 09:00:43]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :but we need a killswitch and we need mods over there wherever tjat may be 
+[20-03-03 09:00:48]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol
+[20-03-03 09:00:51]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ir prob right
+[20-03-03 09:00:53]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ur*
+[20-03-03 09:01:02]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :maybe tho 
+[20-03-03 09:01:10]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah maybe
+[20-03-03 09:01:11]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :if i make a #BashWizards prototype
+[20-03-03 09:01:25]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ACTION starts growing out a long beard and dyes it grey
+[20-03-03 09:01:25]PING :irc.evilcorp.ga
+[20-03-03 09:01:36]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 09:03:26]PING :irc.evilcorp.ga
+[20-03-03 09:04:12]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ACTION talks in deep old scraggly voice
+[20-03-03 09:04:18]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :this is what dusty looks like
+[20-03-03 09:04:32]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i bang bitches everyday i will tell ya that much 
+[20-03-03 09:04:36]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol
+[20-03-03 09:04:48]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :thought I was the only one
+[20-03-03 09:05:01]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :glad to see others are getting action
+[20-03-03 09:05:01]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :nah bro we all bang bitches everyday 
+[20-03-03 09:05:07]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I KNEW IT
+[20-03-03 09:05:20]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol its EvilCorp 
+[20-03-03 09:05:25]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :its like a chick magnet 
+[20-03-03 09:05:27]PING :irc.evilcorp.ga
+[20-03-03 09:05:30]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :ROFL
+[20-03-03 09:05:34]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :SO huge
+[20-03-03 09:05:49]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :they see deep into us and like niagra falls over it
+[20-03-03 09:06:10]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :so wet
+[20-03-03 09:06:12]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :**** man if only 
+[20-03-03 09:06:18]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :towels
+[20-03-03 09:06:27]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol
+[20-03-03 09:06:30]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby ::c
+[20-03-03 09:06:38]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :one day
+[20-03-03 09:06:43]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah
+[20-03-03 09:06:46]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :one day all women will know our names
+[20-03-03 09:06:49]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :walk around with your meats out, they'll come running
+[20-03-03 09:07:00]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :xD 
+[20-03-03 09:07:08]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Bound to happen sooner then later
+[20-03-03 09:07:14]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ur right 
+[20-03-03 09:07:15]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :thats my dream right thwrw
+[20-03-03 09:07:19]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol
+[20-03-03 09:07:27]PING :irc.evilcorp.ga
+[20-03-03 09:07:29]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :you guys are great
+[20-03-03 09:07:34]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :what for a girl to scream SHADOW LOBSTER in bed???
+[20-03-03 09:07:35]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :haha
+[20-03-03 09:07:35]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :lol
+[20-03-03 09:07:43]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 09:07:56]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i mean hey a girl screaming TripleZer0 in bed mmmmm
+[20-03-03 09:08:23]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :**** me I LOVE YOUR ZER0
+[20-03-03 09:08:25]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :!!!
+[20-03-03 09:08:31]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :could you imagine what the nieghbors would think, hearing a moaning screaming bitch screaming SHADOW LOBSTER, 
+[20-03-03 09:08:40]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :haha
+[20-03-03 09:08:49]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :**** neighbours
+[20-03-03 09:09:05]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :when u come over here lobster ima convince a girl to call u that 
+[20-03-03 09:09:11]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :and ima record audio 
+[20-03-03 09:09:16]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :Ymous stick arround
+[20-03-03 09:09:17]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :okl
+[20-03-03 09:09:21]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :well yeah, they'd love it, you know they'd come and inquire, and thats when you ****'em
+[20-03-03 09:09:28]PING :irc.evilcorp.ga
+[20-03-03 09:09:33]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol yes
+[20-03-03 09:09:45]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :dude i cant wait till u come over here man 
+[20-03-03 09:09:52]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :me too
+[20-03-03 09:09:52]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :we gonna have the most fun
+[20-03-03 09:10:00]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah
+[20-03-03 09:10:17]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :nice
+[20-03-03 09:10:17]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :5 mins till burning time
+[20-03-03 09:10:57]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :we gonna travel whole world one day banging chicks from every single country
+[20-03-03 09:11:11]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :oh boi hell ya 
+[20-03-03 09:11:19]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Can't wait to travel to europe for that exact reason
+[20-03-03 09:11:27]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 09:11:29]PING :irc.evilcorp.ga
+[20-03-03 09:11:33]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol GIRLS GIRLS GIRLS
+[20-03-03 09:11:41]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :!!!
+[20-03-03 09:11:45]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :so many, they don't even know they're hot 80% of the time
+[20-03-03 09:12:00]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 09:12:01]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Or maybe I'm just wanted,
+[20-03-03 09:12:05]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol 
+[20-03-03 09:12:08]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :dont care
+[20-03-03 09:12:11]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :wanted DEAD OR ALIVE
+[20-03-03 09:12:21]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :U just gotta know how to talk thats the charm
+[20-03-03 09:12:29]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :I scrapped every duplicated weapon I had
+[20-03-03 09:12:29]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :wonder if I could be both at the same time
+[20-03-03 09:12:39]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lop 
+[20-03-03 09:12:41]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol*
+[20-03-03 09:13:00]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :I have hundreds of refined now 🤑
+[20-03-03 09:13:25]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i started looking girls in the face today i was afraid before but with your guide i am learning
+[20-03-03 09:13:30]PING :irc.evilcorp.ga
+[20-03-03 09:13:32]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Yeah, you're right, you can be super good looking and act like a tard, you gotta be slow and smooth, and quick if that makes any sense
+[20-03-03 09:13:44]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :yea 
+[20-03-03 09:13:49]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :SMOOTH CRIMINAL 
+[20-03-03 09:13:56]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :Annie are you ok 
+[20-03-03 09:14:04]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :Is Stout Shako still 2 refined? :^)
+[20-03-03 09:14:06]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 09:14:16]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :wtf
+[20-03-03 09:14:23]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :is polpot on about?
+[20-03-03 09:14:46]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :weapon??
+[20-03-03 09:14:49]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :Stout Shako... a great man tall and stout and SHHHHHAAAAKOOOO!NN
+[20-03-03 09:15:04]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :straight up, if you can be smooth enough to get them undressed without them even knowing it, you're doing good. Works everytime, :D
+[20-03-03 09:15:26]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :Don't worry, weapons are gone and I'm RICH
+[20-03-03 09:15:26]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :if u get them wanting you then ur set
+[20-03-03 09:15:30]PING :irc.evilcorp.ga
+[20-03-03 09:15:31]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :I'll buy myself hundreds of stout shakos
+[20-03-03 09:15:36]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :it dont matter if u live at gmas house
+[20-03-03 09:15:41]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :Sold MvM parts too
+[20-03-03 09:15:50]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :Had over 700 of them lmao
+[20-03-03 09:16:29]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :tarkov?
+[20-03-03 09:16:30]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I won't even bother with the chick if I don't get any signals. Which should happen when you talk to them if they do want the dick
+[20-03-03 09:16:41]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :right
+[20-03-03 09:16:59]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ah cool so **** off Jibia
+[20-03-03 09:17:22]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I had to teach my brothers a bit, they were shy and missing boats. They both have gfs now.
+[20-03-03 09:17:30]PING :irc.evilcorp.ga
+[20-03-03 09:17:44]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :burning now
+[20-03-03 09:17:52]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I'm the oldest though, it's my job
+[20-03-03 09:18:10]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :wish i had a brother like you
+[20-03-03 09:18:16]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :nah dude gfs is for when u find the one but my plan is to **** all kinds of women 
+[20-03-03 09:18:26]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :and try not to givein 
+[20-03-03 09:18:46]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :hey Shadow_Lobster im ur brother lol
+[20-03-03 09:18:48]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :If I smoke I'll become stupid, and way way way more talkative and the topics, oh man. 
+[20-03-03 09:18:53]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah
+[20-03-03 09:18:55]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Yeah same here triple
+[20-03-03 09:19:05]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :thats why I'm still single atm
+[20-03-03 09:19:13]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :**** all kinds of women till u fall for one
+[20-03-03 09:19:24]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :isnt that how it works anyways???
+[20-03-03 09:19:30]PING :irc.evilcorp.ga
+[20-03-03 09:19:35]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :somewhat
+[20-03-03 09:19:43]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :my brother from another mother wish i met you early
+[20-03-03 09:19:47]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :you can fall for a girl and not have slept with he
+[20-03-03 09:20:07]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :u cant tho 
+[20-03-03 09:20:11]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :u must break free
+[20-03-03 09:20:21]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :women can and will be bitches 
+[20-03-03 09:20:52]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :if your gonna **** you gotta **** THEM RIGHT
+[20-03-03 09:20:58]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :and leave 
+[20-03-03 09:21:05]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :unless
+[20-03-03 09:21:14]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :u know u can hold off the feelinga
+[20-03-03 09:21:32]PING :irc.evilcorp.ga
+[20-03-03 09:21:59]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :feelings are strong things but once u fall u better hope she is the one or drink so whiskey and have a few smokes cause ur going out to bang another!nn
+[20-03-03 09:22:07]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :thats the rock star life
+[20-03-03 09:23:03]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I admit 50% of the relationship is the physical side, but there are girls out there that aren't sluts, and are only into loyalty. But then sleeping with her ends up being a problem cause shes got no experience and is shy and uncomfortable with herself. You can totally work your way in with a girl like that and it be the one. But hoping that one of the sluts I bang will one day be the one, I have a hard time seeing it. I think the one for 
+[20-03-03 09:23:04]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :me won't be a chick thats had 1000+ dicks down the hole.
+[20-03-03 09:23:16]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :which happens rarely here girls wont allow to bang em untill marriage
+[20-03-03 09:23:29]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :which is primitive
+[20-03-03 09:23:32]PING :irc.evilcorp.ga
+[20-03-03 09:23:34]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :bull****
+[20-03-03 09:24:14]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :yea 
+[20-03-03 09:24:27]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :but its all cause of guys like us
+[20-03-03 09:24:33]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :who just chick hop
+[20-03-03 09:24:42]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :someday you will get lucky and find the one
+[20-03-03 09:25:06]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :If I did fall for a slut, and she proved loyalty I'd still worry. And trust is like so important.
+[20-03-03 09:25:12]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :oh speaking of we gotta work on your english Shadow_Lobster 
+[20-03-03 09:25:20]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby : dont mean it in a bad way bro 
+[20-03-03 09:25:21]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah
+[20-03-03 09:25:26]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i know
+[20-03-03 09:25:32]PING :irc.evilcorp.ga
+[20-03-03 09:25:37]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :you type normal english 
+[20-03-03 09:25:42]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :thas amazing
+[20-03-03 09:25:54]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :I'm fluent in french and english, I have no problem helping you out as well if you need it.
+[20-03-03 09:26:40]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :Just being diligent is all you really need. Habits can cause issues
+[20-03-03 09:26:47]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i think talking over discord will help u out
+[20-03-03 09:26:59]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i think so too
+[20-03-03 09:26:59]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i will just talk your ear off and u just try to speak like me
+[20-03-03 09:27:15]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :mimic him
+[20-03-03 09:27:18]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :yeah
+[20-03-03 09:27:33]PING :irc.evilcorp.ga
+[20-03-03 09:27:34]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i wont speak untill my parents sleep
+[20-03-03 09:27:39]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ur good man
+[20-03-03 09:27:46]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :we got awhile till u come to ua
+[20-03-03 09:27:48]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :us
+[20-03-03 09:27:54]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yup
+[20-03-03 09:29:34]PING :irc.evilcorp.ga
+[20-03-03 09:30:25]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i will be online till 2:30 pm there
+[20-03-03 09:31:35]PING :irc.evilcorp.ga
+[20-03-03 09:33:04]:peanutstick!peanutstic@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 09:33:04]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome peanutstick
+[20-03-03 09:33:13]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :hello guys 
+[20-03-03 09:33:24]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :heyyo peanutstick
+[20-03-03 09:33:35]PING :irc.evilcorp.ga
+[20-03-03 09:33:39]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hows everything?
+[20-03-03 09:33:54]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :Fine and you Shadow_Lobster ?
+[20-03-03 09:34:10]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :cool i am fine too
+[20-03-03 09:34:25]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :Today was a good day
+[20-03-03 09:35:00]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :anything cool happened?
+[20-03-03 09:35:09]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :cuz I show to my students how to stream a video with VCL and they was happy
+[20-03-03 09:35:18]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :VLC *
+[20-03-03 09:35:35]PING :irc.evilcorp.ga
+[20-03-03 09:35:37]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :nice
+[20-03-03 09:36:01]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :and you Shadow_Lobster ?
+[20-03-03 09:36:05]:Ymous!extil@EvilCorpbi1.c9e.ag5q7o.IP PRIVMSG #lobby :good job man, I love teaching people when they are open to learning. They become appreciative and it does a lot for them.
+[20-03-03 09:37:09]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :yeah :)
+[20-03-03 09:37:35]PING :irc.evilcorp.ga
+[20-03-03 09:37:39]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :me like did met a lot of girls after a long time staying in the room and eat good food so i am happy
+[20-03-03 09:37:59]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ate
+[20-03-03 09:38:01]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :are you a teacher too Ymous ?
+[20-03-03 09:38:32]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :I love good food too :D I have some m&m's with me 
+[20-03-03 09:38:39]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :with peanuts 
+[20-03-03 09:38:48]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 09:39:35]PING :irc.evilcorp.ga
+[20-03-03 09:41:35]PING :irc.evilcorp.ga
+[20-03-03 09:43:35]PING :irc.evilcorp.ga
+[20-03-03 09:45:35]PING :irc.evilcorp.ga
+[20-03-03 09:47:35]PING :irc.evilcorp.ga
+[20-03-03 09:49:35]PING :irc.evilcorp.ga
+[20-03-03 09:51:35]PING :irc.evilcorp.ga
+[20-03-03 09:53:10]:peanutstick!peanutstic@irc.evilcorp.ga JOIN :#bots
+[20-03-03 09:53:35]PING :irc.evilcorp.ga
+[20-03-03 09:53:37]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :installing agh
+[20-03-03 09:53:49]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :so much work
+[20-03-03 09:54:17]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :finally time to relief???
+[20-03-03 09:54:39]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :time for it to do its own thing
+[20-03-03 09:54:42]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :yea
+[20-03-03 09:54:48]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :rela time
+[20-03-03 09:54:53]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :relax*
+[20-03-03 09:54:58]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ok thats good
+[20-03-03 09:55:18]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :hopefully ill be done by 5 pm
+[20-03-03 09:55:26]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :oof
+[20-03-03 09:55:35]PING :irc.evilcorp.ga
+[20-03-03 09:56:01]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ill i got 3 hours of school coming up shortly 
+[20-03-03 09:56:09]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :then 2 more hours to work on it after that 
+[20-03-03 09:56:17]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :when 5 pm hits idc
+[20-03-03 09:56:21]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :im going home
+[20-03-03 09:56:28]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :cool
+[20-03-03 09:57:01]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :shh
+[20-03-03 09:57:01]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ima work on a time machine
+[20-03-03 09:57:10]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol 
+[20-03-03 09:57:15]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :no dusty 
+[20-03-03 09:57:35]PING :irc.evilcorp.ga
+[20-03-03 09:58:41]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :wanna hear a joke?
+[20-03-03 09:58:47]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :sure
+[20-03-03 09:58:49]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :**** i literally talked on the phone for 1 hour 22 minutes :o
+[20-03-03 09:58:50]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :weed eater
+[20-03-03 09:58:52]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :SHH
+[20-03-03 09:59:35]PING :irc.evilcorp.ga
+[20-03-03 09:59:56]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :SHH? 
+[20-03-03 10:00:04]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :what kinda protocol is that  
+[20-03-03 10:00:20]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :https://www.youtube.com/watch?v=j4Ph02gzqmY
+[20-03-03 10:00:24]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Veggietales predicts modern internet humour - YouTube
+[20-03-03 10:00:41]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :youtube unas annus
+[20-03-03 10:00:42]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :First 3 videos for -> unas annus
+[20-03-03 10:00:45]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Unus Annus - YouTube -> https://www.youtube.com/watch?v=wXnh0h8IT7E
+[20-03-03 10:00:46]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :YESSSS
+[20-03-03 10:00:47]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Unas Annus - YouTube -> https://www.youtube.com/playlist?list=PLHVedvw3Ob7_pB0t4ZWa8t8wAAjyZRLNm
+[20-03-03 10:00:48]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :UNAS Annus - YouTube -> https://www.youtube.com/playlist?list=PLRKHp0BzdIf7hoYbvbRjzaVSSP6dMMqVP
+[20-03-03 10:00:52]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :THE GOD CHANNEL
+[20-03-03 10:00:56]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :did you see extreme nutball with a taser?
+[20-03-03 10:01:20]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i saw extreme nutball... but tazer eddition??m
+[20-03-03 10:01:34]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :weed eater
+[20-03-03 10:01:35]PING :irc.evilcorp.ga
+[20-03-03 10:01:45]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :eater of weeeed
+[20-03-03 10:02:04]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :have u guys seen weed eater? 
+[20-03-03 10:02:08]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :no cause he died 
+[20-03-03 10:02:12]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :he ate weed.
+[20-03-03 10:02:16]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 10:02:21]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :wait 
+[20-03-03 10:02:36]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :weed eater like a trimmer lol
+[20-03-03 10:02:45]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :he died after eating too much weed
+[20-03-03 10:02:49]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :just bogged out man
+[20-03-03 10:03:14]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :urban bogged
+[20-03-03 10:03:15]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :a toilet
+[20-03-03 10:03:16]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :i neeta go to the Bog
+[20-03-03 10:03:24]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol
+[20-03-03 10:03:35]PING :irc.evilcorp.ga
+[20-03-03 10:03:39]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :where dusty lives they dont trim anything ;l
+[20-03-03 10:03:44]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :;)*
+[20-03-03 10:03:49]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 10:04:13]:Shadow_Lobster!Shadow@Man.With.Claws NICK :Weed_Eater
+[20-03-03 10:04:18]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ugh hot pocket tooo hot
+[20-03-03 10:05:35]PING :irc.evilcorp.ga
+[20-03-03 10:05:45]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :what sound does a weed eater make?
+[20-03-03 10:05:53]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :NONE HE DIES
+[20-03-03 10:06:05]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :https://www.youtube.com/watch?v=b3rLoOLSJZk
+[20-03-03 10:06:08]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Lucii & Dirtysnatcha - I Need Your High [Official Audio] - YouTube
+[20-03-03 10:06:20]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :no
+[20-03-03 10:06:34]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ok leaving to go to class
+[20-03-03 10:07:17]:TripleZer0!TripleZer0@Golden.Legend QUIT :Consumed by Evil: Quit
+[20-03-03 10:07:31]:Fox!Fox@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 10:07:32]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :Fox
+[20-03-03 10:07:32]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Fox
+[20-03-03 10:07:35]PING :irc.evilcorp.ga
+[20-03-03 10:07:47]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :wb Fox
+[20-03-03 10:08:07]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ty
+[20-03-03 10:08:51]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :got your tail?
+[20-03-03 10:09:27]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :https://www.youtube.com/watch?v=Ao7ogneCa2E
+[20-03-03 10:09:31]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :GHOSTEMANE - GATTEKA (OFFICIAL VIDEO) - YouTube
+[20-03-03 10:09:36]PING :irc.evilcorp.ga
+[20-03-03 10:11:36]PING :irc.evilcorp.ga
+[20-03-03 10:12:33]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :ACTION licks Fox
+[20-03-03 10:12:55]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION looking at confused dusty spitting out hair off his tongue
+[20-03-03 10:13:20]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :worth it
+[20-03-03 10:13:36]PING :irc.evilcorp.ga
+[20-03-03 10:15:36]PING :irc.evilcorp.ga
+[20-03-03 10:16:27]:rook!rook@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 10:16:27]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome rook
+[20-03-03 10:17:36]PING :irc.evilcorp.ga
+[20-03-03 10:18:18]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :rook wb
+[20-03-03 10:18:27]:rook_!rook@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 10:18:29]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome rook_
+[20-03-03 10:18:38]:rook_!rook@irc.evilcorp.ga PRIVMSG #lobby ::/
+[20-03-03 10:18:47]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :rook_ wb
+[20-03-03 10:19:06]:rook_!rook@irc.evilcorp.ga PRIVMSG #lobby :nick change command is without spaces or with?
+[20-03-03 10:19:23]:rook_!rook@irc.evilcorp.ga PRIVMSG #lobby :meh I forgot the commands
+[20-03-03 10:19:28]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :./nick rook
+[20-03-03 10:19:37]PING :irc.evilcorp.ga
+[20-03-03 10:19:38]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :but it wont work
+[20-03-03 10:19:48]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :because rook is still here
+[20-03-03 10:19:54]:rook_!rook@irc.evilcorp.ga PRIVMSG #lobby :hm
+[20-03-03 10:20:05]:rook_!rook@irc.evilcorp.ga PRIVMSG #lobby :so I can accidentally spam the user list
+[20-03-03 10:20:07]:rook_!rook@irc.evilcorp.ga PRIVMSG #lobby :-_-
+[20-03-03 10:20:11]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :no
+[20-03-03 10:20:17]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :you good
+[20-03-03 10:20:25]:rook_!rook@irc.evilcorp.ga PRIVMSG #lobby :did the last one leave
+[20-03-03 10:20:26]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :NO U
+[20-03-03 10:20:27]:rook!rook@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-03 10:20:32]:rook_!rook@irc.evilcorp.ga PRIVMSG #lobby :wow nice delay
+[20-03-03 10:20:35]:rook_!rook@irc.evilcorp.ga NICK :rook
+[20-03-03 10:20:35]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :ok now try
+[20-03-03 10:20:39]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :cool
+[20-03-03 10:21:16]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby ::P
+[20-03-03 10:21:38]PING :irc.evilcorp.ga
+[20-03-03 10:21:41]:peanutstick!peanutstic@irc.evilcorp.ga QUIT :Consumed by Evil: Leaving
+[20-03-03 10:22:07]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :since Fox and dusty is here you might see the early chat again rook
+[20-03-03 10:22:34]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION presents
+[20-03-03 10:22:37]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :early chat
+[20-03-03 10:23:02]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 10:23:38]PING :irc.evilcorp.ga
+[20-03-03 10:23:39]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :i am who rook?
+[20-03-03 10:24:03]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION ordering pizza with COVID-19
+[20-03-03 10:24:05]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :anyone?
+[20-03-03 10:24:10]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :no thanks
+[20-03-03 10:24:16]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :its free
+[20-03-03 10:24:16]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :yup gimme a slice
+[20-03-03 10:24:18]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :almost
+[20-03-03 10:24:23]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :but do you have corona beer tho?
+[20-03-03 10:24:23]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :yeah guys relax
+[20-03-03 10:24:58]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :no idk who is weed eater
+[20-03-03 10:25:04]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :I guess hes weed eater
+[20-03-03 10:25:08]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 10:25:14]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :and give me weed
+[20-03-03 10:25:33]:Weed_Eater!Shadow@Man.With.Claws PRIVMSG #lobby :reveal sesame
+[20-03-03 10:25:38]PING :irc.evilcorp.ga
+[20-03-03 10:25:42]:Weed_Eater!Shadow@Man.With.Claws NICK :Shadow_Lobster
+[20-03-03 10:25:42]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :I said give me your weed
+[20-03-03 10:26:00]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION offers 12 pack of corona bear
+[20-03-03 10:26:02]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 10:26:29]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :weed eater cant talk you know why?
+[20-03-03 10:26:31]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :You know folks, yoar from know you would be remembering all this hipe about virus with smile.. Well, not all of you, of course..
+[20-03-03 10:26:49]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :what hype
+[20-03-03 10:27:02]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :the fucck youre talking about 
+[20-03-03 10:27:04]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :exactly
+[20-03-03 10:27:13]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe 
+[20-03-03 10:27:16]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :people are buying **** too much
+[20-03-03 10:27:32]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :because of corona rn
+[20-03-03 10:27:39]PING :irc.evilcorp.ga
+[20-03-03 10:27:59]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :who ****ing eat bat???
+[20-03-03 10:28:06]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :argh
+[20-03-03 10:28:18]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :bat eaters
+[20-03-03 10:28:21]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :Australians
+[20-03-03 10:29:08]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :then they got what they deserves but not other people
+[20-03-03 10:29:29]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :u know one guy is the cause of all these pandemic
+[20-03-03 10:29:40]PING :irc.evilcorp.ga
+[20-03-03 10:29:52]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :trump
+[20-03-03 10:29:56]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :no
+[20-03-03 10:29:58]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :we know
+[20-03-03 10:29:59]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :yes
+[20-03-03 10:29:59]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 10:30:02]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :no
+[20-03-03 10:30:06]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :wenow who started it
+[20-03-03 10:30:13]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :and he is here in the chat
+[20-03-03 10:30:16]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :its Dusty
+[20-03-03 10:30:21]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 10:30:27]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :but hes from antartica 
+[20-03-03 10:30:39]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :he can reach you from whatever, rock
+[20-03-03 10:30:39]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :i wish i could have got alchohol for tonight :(
+[20-03-03 10:30:40]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :he ****ing immune to everything
+[20-03-03 10:30:46]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :yes
+[20-03-03 10:30:47]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :he can lick you from light years away
+[20-03-03 10:30:56]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :no he cant 
+[20-03-03 10:30:57]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :even my weed is over :(
+[20-03-03 10:31:04]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :he can
+[20-03-03 10:31:06]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :he is like typhoid mary, but not mary and other gender and he is pony
+[20-03-03 10:31:10]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :pretty sure he cant
+[20-03-03 10:31:15]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :I thought antartica is a frozen wall to prevent people figuring out the world is flat
+[20-03-03 10:31:22]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :it isnt
+[20-03-03 10:31:30]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :its reversed greenland
+[20-03-03 10:31:41]PING :irc.evilcorp.ga
+[20-03-03 10:31:41]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :greenlad and iceland are misnamed
+[20-03-03 10:31:44]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION offer jelly bean to h3lkitty
+[20-03-03 10:31:46]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :btw how do you make the narrator text
+[20-03-03 10:31:51]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :like that one above
+[20-03-03 10:31:53]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yup to that i agree
+[20-03-03 10:32:15]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :there was that scifi novel about aliens that get unfrozen and get other people infected 
+[20-03-03 10:32:25]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :who tf named greenland greenland and iceland iceland
+[20-03-03 10:32:28]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :thanks fox
+[20-03-03 10:32:29]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :that is why i am sure it is dusty
+[20-03-03 10:32:34]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :we got prankd
+[20-03-03 10:32:38]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :he licked unfrozen alien,
+[20-03-03 10:32:48]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :like it was icecream or something
+[20-03-03 10:33:00]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :and because he is himself pretty much immune to everything..
+[20-03-03 10:33:03]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :oh wait.. i got ice cream in my fridge =)
+[20-03-03 10:33:11]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :h3lkitty yay!
+[20-03-03 10:33:16]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :nice job
+[20-03-03 10:33:26]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :I guess the ice cream is already gone
+[20-03-03 10:33:38]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :you can count on it
+[20-03-03 10:33:41]PING :irc.evilcorp.ga
+[20-03-03 10:33:47]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :everything went to hell for us the common folks
+[20-03-03 10:33:53]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ACTION shares ice cream with fox
+[20-03-03 10:34:01]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :thank you, love!
+[20-03-03 10:34:05]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :how do you make that type of msg http://prntscr.com/rb227a
+[20-03-03 10:34:14]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :enlight me please
+[20-03-03 10:34:32]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :./me and command
+[20-03-03 10:34:40]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :oh
+[20-03-03 10:34:41]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :dont use .
+[20-03-03 10:34:51]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :I know how commands work
+[20-03-03 10:35:02]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ok cool then
+[20-03-03 10:35:02]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :the / is universal
+[20-03-03 10:35:03]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :Shadow-Lobster - they have foreseen future. Greenland would be green, and they will turn iceland into one giant refrigerator to save penguins
+[20-03-03 10:35:06]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :lmao
+[20-03-03 10:35:25]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :why tf you would save penguins
+[20-03-03 10:35:32]:Dusted!Dusted@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 10:35:33]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Dusted
+[20-03-03 10:35:34]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :they squat their whole life 
+[20-03-03 10:35:38]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :fox you want chocolates as well? :)
+[20-03-03 10:35:40]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :wb Dusted
+[20-03-03 10:35:41]PING :irc.evilcorp.ga
+[20-03-03 10:35:46]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :wb dust
+[20-03-03 10:35:49]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :Dusted
+[20-03-03 10:35:53]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :hi everyone!
+[20-03-03 10:35:54]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :because without penguins, rook, Yetti life would be empty and pointless
+[20-03-03 10:35:55]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :thanks!
+[20-03-03 10:36:06]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :burh you got yettis
+[20-03-03 10:36:09]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :h3lkitty - yes, unless it was already licked by dusty
+[20-03-03 10:36:18]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :wb Dusted
+[20-03-03 10:36:21]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :penguins are nice right?
+[20-03-03 10:36:22]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :eww.. no XD
+[20-03-03 10:36:24]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :hi there Fox!
+[20-03-03 10:36:37]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :i got a packed one fox
+[20-03-03 10:36:37]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :idk penguins arent nice
+[20-03-03 10:36:47]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :especially skipper
+[20-03-03 10:36:48]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :h3lkitty - its better not to be, his tongue is like everywhere
+[20-03-03 10:37:07]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :lol no fox :D
+[20-03-03 10:37:12]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :My favorite penguin is the gentoo penguin
+[20-03-03 10:37:19]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :Dusted hows everything?
+[20-03-03 10:37:23]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :rook - yes, i agree, that is why they got evicted from Madagascar
+[20-03-03 10:37:30]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :im good, just dealing with stuffs at dans
+[20-03-03 10:37:34]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :but all is well
+[20-03-03 10:37:34]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :they got departed
+[20-03-03 10:37:37]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :not evicted
+[20-03-03 10:37:38]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :how are your Shadow_Lobster 
+[20-03-03 10:37:39]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :?
+[20-03-03 10:37:41]PING :irc.evilcorp.ga
+[20-03-03 10:37:49]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i am fine too
+[20-03-03 10:37:50]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :straight up yeeted out 
+[20-03-03 10:37:57]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :good to hear Shadow_Lobster !
+[20-03-03 10:38:02]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :so hard they made it look like an evict
+[20-03-03 10:38:34]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ACTION gives fox her cig
+[20-03-03 10:39:05]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :danke h3lkitty
+[20-03-03 10:39:10]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION puffs
+[20-03-03 10:39:21]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :dedcohedran!
+[20-03-03 10:39:41]PING :irc.evilcorp.ga
+[20-03-03 10:39:54]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :urban dedcohedran
+[20-03-03 10:39:55]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Not Found
+[20-03-03 10:40:17]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :its basically polyhedron
+[20-03-03 10:40:24]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :herzlich willkommen fox
+[20-03-03 10:40:32]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :its a hedron
+[20-03-03 10:40:52]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :urban dodecahedron
+[20-03-03 10:40:53]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :A fake theory about earth being shaped like a dodecahedron.
+[20-03-03 10:40:55]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Dodecahedron Earth is gay, Dinosaur Earth is better.
+[20-03-03 10:41:27]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :lol
+[20-03-03 10:41:41]PING :irc.evilcorp.ga
+[20-03-03 10:42:18]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :holly **** drawing with a mouse sucks
+[20-03-03 10:42:42]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :doing musics with a mouse is no fun either
+[20-03-03 10:43:07]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :you can at least use keyboard for that
+[20-03-03 10:43:15]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :somewhat
+[20-03-03 10:43:17]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :but still
+[20-03-03 10:43:21]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :its pain in the ass
+[20-03-03 10:43:23]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :i get it
+[20-03-03 10:43:28]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :and not always need an electronic instrument
+[20-03-03 10:43:32]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby ::/
+[20-03-03 10:43:41]PING :irc.evilcorp.ga
+[20-03-03 10:44:04]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :i need a midi controller that rocks
+[20-03-03 10:44:11]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :I can draw on paper
+[20-03-03 10:44:19]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :I need a penis rubber that works
+[20-03-03 10:44:25]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :but how df do I put the final work to a pc
+[20-03-03 10:44:26]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :heh
+[20-03-03 10:44:32]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :d(^o^)b¸¸♬·¯·♩¸¸♪·¯·♫¸¸
+[20-03-03 10:44:43]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :like I got no ideas
+[20-03-03 10:44:52]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :scanning would destroy quality
+[20-03-03 10:45:23]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :I dont have blinding white lamps anywhere and good camera if I wanted to take a photo of it
+[20-03-03 10:45:41]PING :irc.evilcorp.ga
+[20-03-03 10:45:41]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hmm
+[20-03-03 10:46:12]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :heck I dont have a good camera at all
+[20-03-03 10:46:12]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :get a decentntntntntnt
+[20-03-03 10:46:14]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :get
+[20-03-03 10:46:17]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :get a decent scanner
+[20-03-03 10:46:25]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :why draw with mouse???
+[20-03-03 10:46:34]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :what happened to the drawing pads?
+[20-03-03 10:46:34]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :because I dont have a drawing tablet
+[20-03-03 10:46:42]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :or a drawing pad
+[20-03-03 10:46:46]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :currently
+[20-03-03 10:46:55]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :buy one, they are cheam as grass
+[20-03-03 10:46:59]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :use phone
+[20-03-03 10:47:09]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :use penis
+[20-03-03 10:47:17]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :use dusty
+[20-03-03 10:47:41]PING :irc.evilcorp.ga
+[20-03-03 10:47:48]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :dusty go lick your penis, I heard your tongue is infinitely long
+[20-03-03 10:47:56]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 10:48:21]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :mmm-mmm
+[20-03-03 10:48:25]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :yes, my tongue is very impressive
+[20-03-03 10:48:25]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :free advertisement
+[20-03-03 10:48:33]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :can almost reach my adams apple
+[20-03-03 10:49:04]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :I could basically jack off Fox with my tongue
+[20-03-03 10:49:41]PING :irc.evilcorp.ga
+[20-03-03 10:50:42]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :Autofellatio
+[20-03-03 10:51:42]PING :irc.evilcorp.ga
+[20-03-03 10:51:58]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :hmm
+[20-03-03 10:52:17]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :sounds hentaish
+[20-03-03 10:52:41]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :its real tho
+[20-03-03 10:52:49]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :some can do it
+[20-03-03 10:53:16]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :ah yes found the optimal position to place my hand and not **** up everything
+[20-03-03 10:53:30]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :good job rook
+[20-03-03 10:53:42]PING :irc.evilcorp.ga
+[20-03-03 10:54:00]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :wiki Autofellatio
+[20-03-03 10:54:03]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Autofellatio -> https://en.wikipedia.org/wiki/Autofellatio
+[20-03-03 10:54:22]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby ::D
+[20-03-03 10:54:57]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :I managed to make it look as same as the original one
+[20-03-03 10:55:42]PING :irc.evilcorp.ga
+[20-03-03 10:55:44]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :share it here i wanna see your creation
+[20-03-03 10:55:55]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :its ok if you dont wanna
+[20-03-03 10:55:56]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :That's gay
+[20-03-03 10:56:18]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :urban Gay
+[20-03-03 10:56:19]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :(a) Able to sit nearer than five feet away from one’s bro in a hot tub
+[20-03-03 10:56:19]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :“Two broooos, chillin’ in a hot tub, five feet apart, ‘cause they’re not gay”
+[20-03-03 10:56:28]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :its fine, most of us good with that
+[20-03-03 10:56:51]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :I only made the first part
+[20-03-03 10:56:54]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :me getting into hot tube with dusty so totally not gay
+[20-03-03 10:56:56]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :I still need the other 9
+[20-03-03 10:56:59]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby ::P
+[20-03-03 10:57:04]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :but ill prob share it
+[20-03-03 10:57:12]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :it woul more like hot spa
+[20-03-03 10:57:13]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :when im done
+[20-03-03 10:57:16]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ok
+[20-03-03 10:57:23]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :say no homo thats all you needa do
+[20-03-03 10:57:24]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :but not today or tomorrow :(
+[20-03-03 10:57:34]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ok rook
+[20-03-03 10:57:43]PING :irc.evilcorp.ga
+[20-03-03 10:57:49]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :what do you say when you walk away from a man
+[20-03-03 10:58:02]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hmm
+[20-03-03 10:59:06]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :you say later homo
+[20-03-03 10:59:25]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 10:59:43]PING :irc.evilcorp.ga
+[20-03-03 11:01:23]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :https://www.quora.com/Is-it-possible-to-use-my-phone-as-a-laptop-drawing-pad
+[20-03-03 11:01:27]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Is it possible to use my phone as a laptop drawing pad? - Quora
+[20-03-03 11:01:41]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :electronic drawing pad is like 20 Eu
+[20-03-03 11:01:43]PING :irc.evilcorp.ga
+[20-03-03 11:01:45]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :used is like 1 Eu
+[20-03-03 11:01:52]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :wait what
+[20-03-03 11:02:03]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :the one that attaches to computer
+[20-03-03 11:02:10]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :where the f did you find that
+[20-03-03 11:02:19]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :idk, online?
+[20-03-03 11:02:21]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :that stuff costs in 100s at my place
+[20-03-03 11:02:47]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :20 eu is high
+[20-03-03 11:02:54]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :i'm gonna get some sleep rn
+[20-03-03 11:03:03]:h3lkitty!h3lkitty@Evil.Kitty QUIT :The TLS connection was non-properly terminated.
+[20-03-03 11:03:03]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :sleep nice h3lkitty
+[20-03-03 11:03:10]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :1 eu? like how tf?
+[20-03-03 11:03:43]PING :irc.evilcorp.ga
+[20-03-03 11:04:12]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :the cheapest one I could actually use is 60 euros
+[20-03-03 11:04:33]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :the cheapest unusuable was 20
+[20-03-03 11:04:47]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :while what I need costs over 100
+[20-03-03 11:05:01]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :on amazon
+[20-03-03 11:05:34]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :here https://www.ebay.de/itm/A3-Zeichnung-Grafiker-Grafiktablett-Zeichentablet-USB-Tablet-Animation-Skizze-DE/352984803086
+[20-03-03 11:05:43]PING :irc.evilcorp.ga
+[20-03-03 11:06:18]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :or here https://www.amazon.com/Ultrathin-Graphic-Digital-Drawing-Pressure/dp/B01BA6XQI0
+[20-03-03 11:06:34]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :its in german
+[20-03-03 11:06:37]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :thats 19
+[20-03-03 11:06:38]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :and
+[20-03-03 11:06:41]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :after that
+[20-03-03 11:06:50]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :wheres the 1 eu one
+[20-03-03 11:06:52]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :it is 20 bucks
+[20-03-03 11:06:57]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :but thats a pad
+[20-03-03 11:07:00]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :not a tablet
+[20-03-03 11:07:07]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :theyre different
+[20-03-03 11:07:10]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby ::P
+[20-03-03 11:07:39]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :it works for drawing
+[20-03-03 11:07:44]PING :irc.evilcorp.ga
+[20-03-03 11:07:44]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :though i understand
+[20-03-03 11:08:01]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :well yes
+[20-03-03 11:08:12]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :but the joke is I would draw better on paper than on that lmao
+[20-03-03 11:08:37]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :btw why are we talking about that
+[20-03-03 11:08:48]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :idk
+[20-03-03 11:09:06]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :meh
+[20-03-03 11:09:09]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :meh
+[20-03-03 11:09:17]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :touchscreen monitor may be thing
+[20-03-03 11:09:44]PING :irc.evilcorp.ga
+[20-03-03 11:09:46]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :but its like 50€ for used
+[20-03-03 11:10:05]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :and not all of them good for drawing
+[20-03-03 11:10:12]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :and it wont last long
+[20-03-03 11:10:25]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :ill be fine
+[20-03-03 11:10:27]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :ACTION has thing abut artists
+[20-03-03 11:10:37]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :I know what I would buy
+[20-03-03 11:10:47]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :if I wanted to buy one
+[20-03-03 11:11:17]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :what is that?
+[20-03-03 11:11:44]PING :irc.evilcorp.ga
+[20-03-03 11:12:02]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i copied bob ross once and made a painting and my parents congradulated me for that
+[20-03-03 11:12:21]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :congratulated
+[20-03-03 11:12:29]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :I bet you were or are depressed now
+[20-03-03 11:12:56]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :copying that stuff isnt the best idea
+[20-03-03 11:13:02]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hehe
+[20-03-03 11:13:13]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[meh]: if talking about quality of course lol
+[20-03-03 11:13:29]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :but if not then lol nice job
+[20-03-03 11:13:45]PING :irc.evilcorp.ga
+[20-03-03 11:14:12]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i am good at copying stuff
+[20-03-03 11:14:19]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :thats in my blood
+[20-03-03 11:14:21]:Svarog!Svarog@Cocaine.Ninja JOIN :#lobby
+[20-03-03 11:14:21]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Svarog
+[20-03-03 11:14:41]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :hi svarod
+[20-03-03 11:14:46]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :svarog*
+[20-03-03 11:14:54]:Svarog!Svarog@Cocaine.Ninja PRIVMSG #lobby :o/
+[20-03-03 11:15:46]PING :irc.evilcorp.ga
+[20-03-03 11:17:41]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :hi Svarog
+[20-03-03 11:17:46]PING :irc.evilcorp.ga
+[20-03-03 11:17:47]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :urban Svarog
+[20-03-03 11:17:48]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Not Found
+[20-03-03 11:17:52]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :wiki Svarog
+[20-03-03 11:17:55]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Svarog -> https://en.wikipedia.org/wiki/Svarog
+[20-03-03 11:18:01]:Fox!Fox@irc.evilcorp.ga PRIVMSG #lobby :urban tvorog
+[20-03-03 11:18:02]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Not Found
+[20-03-03 11:18:32]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :svarog is a god
+[20-03-03 11:19:31]:Dusted!Dusted@The.Psychonaut PRIVMSG #lobby :laters taters
+[20-03-03 11:19:34]:Dusted!Dusted@The.Psychonaut QUIT :Consumed by Evil: Page closed
+[20-03-03 11:19:37]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :bye
+[20-03-03 11:19:46]PING :irc.evilcorp.ga
+[20-03-03 11:21:30]:Svarog!Svarog@Cocaine.Ninja PRIVMSG #lobby :How goes it?
+[20-03-03 11:21:46]PING :irc.evilcorp.ga
+[20-03-03 11:22:15]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :lmao I forgot how large the file would be
+[20-03-03 11:22:45]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :I made it 4000 x 4000 pixels
+[20-03-03 11:23:04]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :a couple of weeks before today 
+[20-03-03 11:23:12]:rook!rook@irc.evilcorp.ga PRIVMSG #lobby :and decided to work on it rn
+[20-03-03 11:23:47]PING :irc.evilcorp.ga
+[20-03-03 11:25:32]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :uryyb cyrnfr genafyngr guvf
+[20-03-03 11:25:47]PING :irc.evilcorp.ga
+[20-03-03 11:27:47]PING :irc.evilcorp.ga
+[20-03-03 11:29:47]PING :irc.evilcorp.ga
+[20-03-03 11:29:57]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG BayMax :@say lobster
+[20-03-03 11:31:57]PING :irc.evilcorp.ga
+[20-03-03 11:33:57]PING :irc.evilcorp.ga
+[20-03-03 11:35:57]PING :irc.evilcorp.ga
+[20-03-03 11:36:13]:Fox!Fox@irc.evilcorp.ga QUIT :Consumed by Evil: Leaving
+[20-03-03 11:37:13]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :urban chad
+[20-03-03 11:37:14]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :1. Slang for one's Scrotum, when stretched out prior to a tea bagging.
+[20-03-03 11:37:29]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Dude snap a pic while I lay the chad across this chicks face.
+[20-03-03 11:37:57]PING :irc.evilcorp.ga
+[20-03-03 11:39:37]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :sleep time bye
+[20-03-03 11:39:56]:Shadow_Lobster!Shadow@Man.With.Claws QUIT :Consumed by Evil: Going offline, see ya! (www.adiirc.com)
+[20-03-03 11:39:57]PING :irc.evilcorp.ga
+[20-03-03 11:41:57]PING :irc.evilcorp.ga
+[20-03-03 11:43:58]PING :irc.evilcorp.ga
+[20-03-03 11:45:58]PING :irc.evilcorp.ga
+[20-03-03 11:47:58]PING :irc.evilcorp.ga
+[20-03-03 11:49:58]PING :irc.evilcorp.ga
+[20-03-03 11:51:59]PING :irc.evilcorp.ga
+[20-03-03 11:53:59]PING :irc.evilcorp.ga
+[20-03-03 11:56:00]PING :irc.evilcorp.ga
+[20-03-03 11:58:01]PING :irc.evilcorp.ga
+[20-03-03 12:00:02]PING :irc.evilcorp.ga
+[20-03-03 12:02:02]PING :irc.evilcorp.ga
+[20-03-03 12:04:02]PING :irc.evilcorp.ga
+[20-03-03 12:05:12]:rook!rook@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-03 12:06:02]PING :irc.evilcorp.ga
+[20-03-03 12:08:02]PING :irc.evilcorp.ga
+[20-03-03 12:10:02]PING :irc.evilcorp.ga
+[20-03-03 12:10:42]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :Should VPS run CentOS or Debian?
+[20-03-03 12:12:02]PING :irc.evilcorp.ga
+[20-03-03 12:14:02]PING :irc.evilcorp.ga
+[20-03-03 12:14:56]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :Debian it is
+[20-03-03 12:16:02]PING :irc.evilcorp.ga
+[20-03-03 12:18:03]PING :irc.evilcorp.ga
+[20-03-03 12:20:03]PING :irc.evilcorp.ga
+[20-03-03 12:22:03]PING :irc.evilcorp.ga
+[20-03-03 12:24:04]PING :irc.evilcorp.ga
+[20-03-03 12:26:04]PING :irc.evilcorp.ga
+[20-03-03 12:28:04]PING :irc.evilcorp.ga
+[20-03-03 12:30:05]PING :irc.evilcorp.ga
+[20-03-03 12:32:06]PING :irc.evilcorp.ga
+[20-03-03 12:36:01]PING :irc.evilcorp.ga
+[20-03-03 12:38:03]PING :irc.evilcorp.ga
+[20-03-03 12:40:03]PING :irc.evilcorp.ga
+[20-03-03 12:42:04]PING :irc.evilcorp.ga
+[20-03-03 12:44:04]PING :irc.evilcorp.ga
+[20-03-03 12:46:04]PING :irc.evilcorp.ga
+[20-03-03 12:48:04]PING :irc.evilcorp.ga
+[20-03-03 12:50:04]PING :irc.evilcorp.ga
+[20-03-03 12:52:04]PING :irc.evilcorp.ga
+[20-03-03 12:54:04]PING :irc.evilcorp.ga
+[20-03-03 12:56:04]PING :irc.evilcorp.ga
+[20-03-03 12:58:05]PING :irc.evilcorp.ga
+[20-03-03 13:00:05]PING :irc.evilcorp.ga
+[20-03-03 13:02:05]PING :irc.evilcorp.ga
+[20-03-03 13:04:05]PING :irc.evilcorp.ga
+[20-03-03 13:06:05]PING :irc.evilcorp.ga
+[20-03-03 13:08:05]PING :irc.evilcorp.ga
+[20-03-03 13:10:05]PING :irc.evilcorp.ga
+[20-03-03 13:12:05]PING :irc.evilcorp.ga
+[20-03-03 13:14:05]PING :irc.evilcorp.ga
+[20-03-03 13:16:05]PING :irc.evilcorp.ga
+[20-03-03 13:18:06]PING :irc.evilcorp.ga
+[20-03-03 13:20:07]PING :irc.evilcorp.ga
+[20-03-03 13:22:08]PING :irc.evilcorp.ga
+[20-03-03 13:24:09]PING :irc.evilcorp.ga
+[20-03-03 13:25:43]:Svarog!Svarog@Cocaine.Ninja QUIT :Consumed by Evil: Leaving
+[20-03-03 13:26:09]PING :irc.evilcorp.ga
+[20-03-03 13:27:46]:Svarog!Svarog@Cocaine.Ninja JOIN :#lobby
+[20-03-03 13:27:47]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Svarog
+[20-03-03 13:27:57]:Svarog!Svarog@Cocaine.Ninja PRIVMSG #lobby :o/
+[20-03-03 13:28:11]PING :irc.evilcorp.ga
+[20-03-03 13:30:11]PING :irc.evilcorp.ga
+[20-03-03 13:31:31]:polpot!polpot@irc.evilcorp.ga PRIVMSG #lobby :o
+[20-03-03 13:32:12]PING :irc.evilcorp.ga
+[20-03-03 13:34:12]PING :irc.evilcorp.ga
+[20-03-03 13:36:12]PING :irc.evilcorp.ga
+[20-03-03 13:38:12]PING :irc.evilcorp.ga
+[20-03-03 13:40:12]PING :irc.evilcorp.ga
+[20-03-03 13:42:12]PING :irc.evilcorp.ga
+[20-03-03 13:44:12]PING :irc.evilcorp.ga
+[20-03-03 13:46:12]PING :irc.evilcorp.ga
+[20-03-03 13:48:12]PING :irc.evilcorp.ga
+[20-03-03 13:50:12]PING :irc.evilcorp.ga
+[20-03-03 13:52:12]PING :irc.evilcorp.ga
+[20-03-03 13:54:12]PING :irc.evilcorp.ga
+[20-03-03 13:56:12]PING :irc.evilcorp.ga
+[20-03-03 13:58:12]PING :irc.evilcorp.ga
+[20-03-03 14:00:12]PING :irc.evilcorp.ga
+[20-03-03 14:02:12]PING :irc.evilcorp.ga
+[20-03-03 14:04:13]PING :irc.evilcorp.ga
+[20-03-03 14:06:13]PING :irc.evilcorp.ga
+[20-03-03 14:07:02]:Dusted!Dusted@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 14:07:02]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Dusted
+[20-03-03 14:07:20]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :Dusted
+[20-03-03 14:08:13]PING :irc.evilcorp.ga
+[20-03-03 14:10:13]PING :irc.evilcorp.ga
+[20-03-03 14:12:13]PING :irc.evilcorp.ga
+[20-03-03 14:14:13]PING :irc.evilcorp.ga
+[20-03-03 14:16:13]PING :irc.evilcorp.ga
+[20-03-03 14:18:13]PING :irc.evilcorp.ga
+[20-03-03 14:20:13]PING :irc.evilcorp.ga
+[20-03-03 14:22:14]PING :irc.evilcorp.ga
+[20-03-03 14:24:15]PING :irc.evilcorp.ga
+[20-03-03 14:26:16]PING :irc.evilcorp.ga
+[20-03-03 14:28:18]PING :irc.evilcorp.ga
+[20-03-03 14:30:18]PING :irc.evilcorp.ga
+[20-03-03 14:30:47]:Dusted!Dusted@The.Psychonaut QUIT :Consumed by Evil: Page closed
+[20-03-03 14:32:18]PING :irc.evilcorp.ga
+[20-03-03 14:34:18]PING :irc.evilcorp.ga
+[20-03-03 14:36:18]PING :irc.evilcorp.ga
+[20-03-03 14:38:01]:Jaxx!Jaxx@Ultimate.Warrior JOIN :#lobby
+[20-03-03 14:38:01]:irc.evilcorp.ga MODE #lobby +y :Jaxx
+[20-03-03 14:38:01]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Jaxx
+[20-03-03 14:38:18]PING :irc.evilcorp.ga
+[20-03-03 14:40:19]PING :irc.evilcorp.ga
+[20-03-03 14:42:21]PING :irc.evilcorp.ga
+[20-03-03 14:44:21]PING :irc.evilcorp.ga
+[20-03-03 14:46:21]PING :irc.evilcorp.ga
+[20-03-03 14:48:21]PING :irc.evilcorp.ga
+[20-03-03 14:50:21]PING :irc.evilcorp.ga
+[20-03-03 14:52:21]PING :irc.evilcorp.ga
+[20-03-03 14:54:21]PING :irc.evilcorp.ga
+[20-03-03 14:55:15]:Svarog!Svarog@Cocaine.Ninja QUIT :Consumed by Evil: Leaving
+[20-03-03 14:56:06]:Svarog!Svarog@Cocaine.Ninja JOIN :#lobby
+[20-03-03 14:56:06]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Svarog
+[20-03-03 14:56:21]PING :irc.evilcorp.ga
+[20-03-03 14:58:21]PING :irc.evilcorp.ga
+[20-03-03 15:00:21]PING :irc.evilcorp.ga
+[20-03-03 15:02:21]PING :irc.evilcorp.ga
+[20-03-03 15:04:21]PING :irc.evilcorp.ga
+[20-03-03 15:06:21]PING :irc.evilcorp.ga
+[20-03-03 15:08:21]PING :irc.evilcorp.ga
+[20-03-03 15:10:21]PING :irc.evilcorp.ga
+[20-03-03 15:12:21]PING :irc.evilcorp.ga
+[20-03-03 15:14:21]PING :irc.evilcorp.ga
+[20-03-03 15:16:21]PING :irc.evilcorp.ga
+[20-03-03 15:16:45]:hash!hash@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 15:16:45]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome hash
+[20-03-03 15:17:12]:Svarog!Svarog@Cocaine.Ninja QUIT :Consumed by Evil: Leaving
+[20-03-03 15:17:38]:Svarog!Svarog@Cocaine.Ninja JOIN :#lobby
+[20-03-03 15:17:38]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Svarog
+[20-03-03 15:18:21]PING :irc.evilcorp.ga
+[20-03-03 15:20:21]PING :irc.evilcorp.ga
+[20-03-03 15:22:22]PING :irc.evilcorp.ga
+[20-03-03 15:24:22]PING :irc.evilcorp.ga
+[20-03-03 15:26:22]PING :irc.evilcorp.ga
+[20-03-03 15:28:22]PING :irc.evilcorp.ga
+[20-03-03 15:30:22]PING :irc.evilcorp.ga
+[20-03-03 15:32:22]PING :irc.evilcorp.ga
+[20-03-03 15:34:22]PING :irc.evilcorp.ga
+[20-03-03 15:36:22]PING :irc.evilcorp.ga
+[20-03-03 15:38:22]PING :irc.evilcorp.ga
+[20-03-03 15:40:22]PING :irc.evilcorp.ga
+[20-03-03 15:42:22]PING :irc.evilcorp.ga
+[20-03-03 15:44:22]PING :irc.evilcorp.ga
+[20-03-03 15:46:23]PING :irc.evilcorp.ga
+[20-03-03 15:48:23]PING :irc.evilcorp.ga
+[20-03-03 15:50:23]PING :irc.evilcorp.ga
+[20-03-03 15:52:23]PING :irc.evilcorp.ga
+[20-03-03 15:54:23]PING :irc.evilcorp.ga
+[20-03-03 15:56:23]PING :irc.evilcorp.ga
+[20-03-03 15:57:09]:polpot!polpot@irc.evilcorp.ga QUIT :Consumed by Evil: leaving
+[20-03-03 15:58:23]PING :irc.evilcorp.ga
+[20-03-03 16:00:23]PING :irc.evilcorp.ga
+[20-03-03 16:02:23]PING :irc.evilcorp.ga
+[20-03-03 16:04:23]PING :irc.evilcorp.ga
+[20-03-03 16:06:23]PING :irc.evilcorp.ga
+[20-03-03 16:08:23]PING :irc.evilcorp.ga
+[20-03-03 16:10:23]PING :irc.evilcorp.ga
+[20-03-03 16:12:23]PING :irc.evilcorp.ga
+[20-03-03 16:12:57]:Dusted!Dusted@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 16:12:57]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Dusted
+[20-03-03 16:14:23]PING :irc.evilcorp.ga
+[20-03-03 16:16:23]PING :irc.evilcorp.ga
+[20-03-03 16:16:57]:Dusted!Dusted@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-03 16:18:23]PING :irc.evilcorp.ga
+[20-03-03 16:20:23]PING :irc.evilcorp.ga
+[20-03-03 16:22:23]PING :irc.evilcorp.ga
+[20-03-03 16:24:23]PING :irc.evilcorp.ga
+[20-03-03 16:25:35]:Dusted!Dusted@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 16:25:35]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Dusted
+[20-03-03 16:26:23]PING :irc.evilcorp.ga
+[20-03-03 16:28:23]PING :irc.evilcorp.ga
+[20-03-03 16:30:23]PING :irc.evilcorp.ga
+[20-03-03 16:32:23]PING :irc.evilcorp.ga
+[20-03-03 16:34:23]PING :irc.evilcorp.ga
+[20-03-03 16:36:23]PING :irc.evilcorp.ga
+[20-03-03 16:38:23]PING :irc.evilcorp.ga
+[20-03-03 16:40:23]PING :irc.evilcorp.ga
+[20-03-03 16:42:06]:Dusted!Dusted@irc.evilcorp.ga QUIT :Consumed by Evil: Page closed
+[20-03-03 16:42:23]PING :irc.evilcorp.ga
+[20-03-03 16:44:23]PING :irc.evilcorp.ga
+[20-03-03 16:46:23]PING :irc.evilcorp.ga
+[20-03-03 16:48:23]PING :irc.evilcorp.ga
+[20-03-03 16:50:23]PING :irc.evilcorp.ga
+[20-03-03 16:52:23]PING :irc.evilcorp.ga
+[20-03-03 16:54:23]PING :irc.evilcorp.ga
+[20-03-03 16:56:23]PING :irc.evilcorp.ga
+[20-03-03 16:58:23]PING :irc.evilcorp.ga
+[20-03-03 17:00:23]PING :irc.evilcorp.ga
+[20-03-03 17:02:23]PING :irc.evilcorp.ga
+[20-03-03 17:04:23]PING :irc.evilcorp.ga
+[20-03-03 17:06:23]PING :irc.evilcorp.ga
+[20-03-03 17:08:23]PING :irc.evilcorp.ga
+[20-03-03 17:10:23]PING :irc.evilcorp.ga
+[20-03-03 17:12:23]PING :irc.evilcorp.ga
+[20-03-03 17:14:23]PING :irc.evilcorp.ga
+[20-03-03 17:15:50]:LODA!LODA@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 17:15:50]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome LODA
+[20-03-03 17:16:23]PING :irc.evilcorp.ga
+[20-03-03 17:18:23]PING :irc.evilcorp.ga
+[20-03-03 17:20:23]PING :irc.evilcorp.ga
+[20-03-03 17:22:23]PING :irc.evilcorp.ga
+[20-03-03 17:24:23]PING :irc.evilcorp.ga
+[20-03-03 17:26:23]PING :irc.evilcorp.ga
+[20-03-03 17:28:23]PING :irc.evilcorp.ga
+[20-03-03 17:30:23]PING :irc.evilcorp.ga
+[20-03-03 17:32:23]PING :irc.evilcorp.ga
+[20-03-03 17:34:23]PING :irc.evilcorp.ga
+[20-03-03 17:36:23]PING :irc.evilcorp.ga
+[20-03-03 17:38:23]PING :irc.evilcorp.ga
+[20-03-03 17:39:51]:LODA!LODA@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-03 17:40:23]PING :irc.evilcorp.ga
+[20-03-03 17:42:23]PING :irc.evilcorp.ga
+[20-03-03 17:44:23]PING :irc.evilcorp.ga
+[20-03-03 17:46:23]PING :irc.evilcorp.ga
+[20-03-03 17:48:23]PING :irc.evilcorp.ga
+[20-03-03 17:50:23]PING :irc.evilcorp.ga
+[20-03-03 17:52:23]PING :irc.evilcorp.ga
+[20-03-03 17:54:22]PING :irc.evilcorp.ga
+[20-03-03 17:56:23]PING :irc.evilcorp.ga
+[20-03-03 17:58:23]PING :irc.evilcorp.ga
+[20-03-03 18:00:23]PING :irc.evilcorp.ga
+[20-03-03 18:01:08]:TripleZer0!TripleZer0@EvilCorp49h.ct9.24cvif.IP JOIN :#lobby
+[20-03-03 18:01:08]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome TripleZer0
+[20-03-03 18:01:10]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :TripleZer0
+[20-03-03 18:01:14]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :yooo 
+[20-03-03 18:01:36]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :anyone know **** about router configuring 
+[20-03-03 18:01:45]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :im so stuck rn 
+[20-03-03 18:02:23]PING :irc.evilcorp.ga
+[20-03-03 18:04:23]PING :irc.evilcorp.ga
+[20-03-03 18:06:23]PING :irc.evilcorp.ga
+[20-03-03 18:08:23]PING :irc.evilcorp.ga
+[20-03-03 18:10:23]PING :irc.evilcorp.ga
+[20-03-03 18:12:23]PING :irc.evilcorp.ga
+[20-03-03 18:14:23]PING :irc.evilcorp.ga
+[20-03-03 18:16:23]PING :irc.evilcorp.ga
+[20-03-03 18:17:50]:hash!hash@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-03 18:18:23]PING :irc.evilcorp.ga
+[20-03-03 18:20:23]PING :irc.evilcorp.ga
+[20-03-03 18:22:23]PING :irc.evilcorp.ga
+[20-03-03 18:23:18]:LODA!LODA@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 18:23:18]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome LODA
+[20-03-03 18:24:23]PING :irc.evilcorp.ga
+[20-03-03 18:24:58]:hash!hash@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 18:24:59]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome hash
+[20-03-03 18:26:23]PING :irc.evilcorp.ga
+[20-03-03 18:27:57]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :any one alive? :3
+[20-03-03 18:28:04]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :need help
+[20-03-03 18:28:23]PING :irc.evilcorp.ga
+[20-03-03 18:28:51]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :im using 24core server to generate 8 characters long onion address using https://github.com/cathugger/mkp224o.git 
+[20-03-03 18:30:19]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :how do i know the all configurations are correct?
+[20-03-03 18:30:23]PING :irc.evilcorp.ga
+[20-03-03 18:32:23]PING :irc.evilcorp.ga
+[20-03-03 18:33:36]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: Maybe u can hep me
+[20-03-03 18:33:44]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: Il try to help u
+[20-03-03 18:34:05]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: Loda try running it and see what happens
+[20-03-03 18:34:23]PING :irc.evilcorp.ga
+[20-03-03 18:34:27]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :i did ./configure
+[20-03-03 18:34:37]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :and got something like this
+[20-03-03 18:34:45]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :root@loda:~/mkp224o# ./configure checking for gcc... gcc checking whether the C compiler works... yes checking for C compiler default output file name... a.out checking for suffix of executables... checking whether we are cross compiling... no checking for suffix of object files... o checking whether we are using the GNU C compiler... yes checking whether gcc accepts -g... yes checking for gcc option to accept ISO C89... none needed checking whether CC supports -
+[20-03-03 18:35:06]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :and now its trying to generate
+[20-03-03 18:35:38]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :when ./configure i got like these
+[20-03-03 18:35:45]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :checking whether ARGON2ID13 is supported by libsodium... no
+[20-03-03 18:35:52]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: Idk man wish i could help
+[20-03-03 18:36:03]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :will see. im gonna run it for a day
+[20-03-03 18:36:23]PING :irc.evilcorp.ga
+[20-03-03 18:37:34]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: Do u know anything about routers?
+[20-03-03 18:38:23]PING :irc.evilcorp.ga
+[20-03-03 18:38:33]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :nope
+[20-03-03 18:38:40]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: Fark
+[20-03-03 18:39:10]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :its something like this now https://imgur.com/a/G7hhNCj
+[20-03-03 18:40:23]PING :irc.evilcorp.ga
+[20-03-03 18:40:48]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :routers means? my internet router? :3 or onion routing
+[20-03-03 18:41:21]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :i used to host game servers using my home router so i know pretty much
+[20-03-03 18:42:23]PING :irc.evilcorp.ga
+[20-03-03 18:44:19]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: Hmm
+[20-03-03 18:44:23]PING :irc.evilcorp.ga
+[20-03-03 18:44:25]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: Modem -> router -> router -> server 2011
+[20-03-03 18:44:50]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: I have 2 routers but i want server 2011 to get its ip from the farther router
+[20-03-03 18:46:23]PING :irc.evilcorp.ga
+[20-03-03 18:48:23]PING :irc.evilcorp.ga
+[20-03-03 18:49:02]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :uh :/ i have no idea. but ill looking for something
+[20-03-03 18:50:23]PING :irc.evilcorp.ga
+[20-03-03 18:52:23]PING :irc.evilcorp.ga
+[20-03-03 18:54:23]PING :irc.evilcorp.ga
+[20-03-03 18:55:45]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: Nvm **** it for now
+[20-03-03 18:56:07]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: Ill just use that ethernet to the secound router for the server and wifi my gaming pc
+[20-03-03 18:56:14]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: Ill deal with it another time
+[20-03-03 18:56:23]PING :irc.evilcorp.ga
+[20-03-03 18:56:23]:Akuma!nodebot@Demonslayer PRIVMSG #lobby :[hugoslop]: Too much jacking arround ya know
+[20-03-03 18:57:06]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby ::D
+[20-03-03 18:58:23]PING :irc.evilcorp.ga
+[20-03-03 19:00:23]PING :irc.evilcorp.ga
+[20-03-03 19:02:23]PING :irc.evilcorp.ga
+[20-03-03 19:04:23]PING :irc.evilcorp.ga
+[20-03-03 19:06:23]PING :irc.evilcorp.ga
+[20-03-03 19:08:23]PING :irc.evilcorp.ga
+[20-03-03 19:10:23]PING :irc.evilcorp.ga
+[20-03-03 19:12:23]PING :irc.evilcorp.ga
+[20-03-03 19:14:23]PING :irc.evilcorp.ga
+[20-03-03 19:16:23]PING :irc.evilcorp.ga
+[20-03-03 19:18:23]PING :irc.evilcorp.ga
+[20-03-03 19:19:49]:TripleZer0!TripleZer0@Golden.Legend QUIT :Connection closed
+[20-03-03 19:19:53]:TripleZer0!TripleZer0@EvilCorp49h.ct9.24cvif.IP JOIN :#lobby
+[20-03-03 19:19:54]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome TripleZer0
+[20-03-03 19:19:55]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :TripleZer0
+[20-03-03 19:20:23]PING :irc.evilcorp.ga
+[20-03-03 19:22:23]PING :irc.evilcorp.ga
+[20-03-03 19:24:23]PING :irc.evilcorp.ga
+[20-03-03 19:26:23]PING :irc.evilcorp.ga
+[20-03-03 19:27:05]:hash!hash@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-03 19:28:23]PING :irc.evilcorp.ga
+[20-03-03 19:30:23]PING :irc.evilcorp.ga
+[20-03-03 19:32:23]PING :irc.evilcorp.ga
+[20-03-03 19:33:49]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :OK GOOGLE :3 FOUND MY NAME MEANING, The Meaning of LODA..... LODA means "Penis" So now you know - LODA means "Penis" - don't thank us. YW!
+[20-03-03 19:34:14]:hash!hash@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 19:34:14]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome hash
+[20-03-03 19:34:23]PING :irc.evilcorp.ga
+[20-03-03 19:36:23]PING :irc.evilcorp.ga
+[20-03-03 19:37:49]:LODA!LODA@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-03 19:38:23]PING :irc.evilcorp.ga
+[20-03-03 19:40:23]PING :irc.evilcorp.ga
+[20-03-03 19:42:23]PING :irc.evilcorp.ga
+[20-03-03 19:44:23]PING :irc.evilcorp.ga
+[20-03-03 19:46:23]PING :irc.evilcorp.ga
+[20-03-03 19:48:23]PING :irc.evilcorp.ga
+[20-03-03 19:50:23]PING :irc.evilcorp.ga
+[20-03-03 19:52:23]PING :irc.evilcorp.ga
+[20-03-03 19:54:23]PING :irc.evilcorp.ga
+[20-03-03 19:55:20]:Svarog_!Svarog@Cocaine.Ninja JOIN :#lobby
+[20-03-03 19:55:20]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Svarog_
+[20-03-03 19:56:23]PING :irc.evilcorp.ga
+[20-03-03 19:56:53]:Svarog!Svarog@Cocaine.Ninja QUIT :Ping timeout: 120 seconds
+[20-03-03 19:58:23]PING :irc.evilcorp.ga
+[20-03-03 20:00:23]PING :irc.evilcorp.ga
+[20-03-03 20:02:23]PING :irc.evilcorp.ga
+[20-03-03 20:04:23]PING :irc.evilcorp.ga
+[20-03-03 20:04:49]:Jaxx!Jaxx@Ultimate.Warrior QUIT :Ping timeout: 120 seconds
+[20-03-03 20:05:19]:owl!owl@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-03 20:06:06]:owl!owl@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 20:06:06]:owl!owl@irc.evilcorp.ga JOIN :#bots
+[20-03-03 20:06:06]:owl!owl@irc.evilcorp.ga JOIN :#BashWizards
+[20-03-03 20:06:06]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome owl
+[20-03-03 20:06:23]PING :irc.evilcorp.ga
+[20-03-03 20:07:18]:Jaxx!Jaxx@Ultimate.Warrior JOIN :#lobby
+[20-03-03 20:07:18]:irc.evilcorp.ga MODE #lobby +y :Jaxx
+[20-03-03 20:07:18]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Jaxx
+[20-03-03 20:08:23]PING :irc.evilcorp.ga
+[20-03-03 20:10:20]:h3lkitty!h3lkitty@Evil.Kitty JOIN :#lobby
+[20-03-03 20:10:20]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +v :h3lkitty
+[20-03-03 20:10:20]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome h3lkitty
+[20-03-03 20:10:23]PING :irc.evilcorp.ga
+[20-03-03 20:12:23]PING :irc.evilcorp.ga
+[20-03-03 20:14:23]PING :irc.evilcorp.ga
+[20-03-03 20:16:23]PING :irc.evilcorp.ga
+[20-03-03 20:18:23]PING :irc.evilcorp.ga
+[20-03-03 20:20:23]PING :irc.evilcorp.ga
+[20-03-03 20:22:23]PING :irc.evilcorp.ga
+[20-03-03 20:24:23]PING :irc.evilcorp.ga
+[20-03-03 20:26:23]PING :irc.evilcorp.ga
+[20-03-03 20:28:23]PING :irc.evilcorp.ga
+[20-03-03 20:30:23]PING :irc.evilcorp.ga
+[20-03-03 20:32:23]PING :irc.evilcorp.ga
+[20-03-03 20:34:23]PING :irc.evilcorp.ga
+[20-03-03 20:36:23]PING :irc.evilcorp.ga
+[20-03-03 20:38:23]PING :irc.evilcorp.ga
+[20-03-03 20:40:23]PING :irc.evilcorp.ga
+[20-03-03 20:41:30]:Deamon-PC_!TripleZer0@EvilCorp49h.ct9.24cvif.IP JOIN :#lobby
+[20-03-03 20:41:30]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Deamon-PC_
+[20-03-03 20:41:37]:Deamon-PC_!TripleZer0@EvilCorp49h.ct9.24cvif.IP QUIT :The TLS connection was non-properly terminated.
+[20-03-03 20:41:58]:TripleZer0!TripleZer0@Golden.Legend QUIT :Consumed by Evil: Quit
+[20-03-03 20:42:07]:TripleZer0!TripleZer0@Golden.Legend JOIN :#lobby
+[20-03-03 20:42:07]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :TripleZer0
+[20-03-03 20:42:07]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome TripleZer0
+[20-03-03 20:42:23]PING :irc.evilcorp.ga
+[20-03-03 20:44:23]PING :irc.evilcorp.ga
+[20-03-03 20:46:00]:h3lkitty!h3lkitty@Evil.Kitty QUIT :The TLS connection was non-properly terminated.
+[20-03-03 20:46:23]PING :irc.evilcorp.ga
+[20-03-03 20:48:23]PING :irc.evilcorp.ga
+[20-03-03 20:50:23]PING :irc.evilcorp.ga
+[20-03-03 20:52:23]PING :irc.evilcorp.ga
+[20-03-03 20:54:23]PING :irc.evilcorp.ga
+[20-03-03 20:56:23]PING :irc.evilcorp.ga
+[20-03-03 20:58:23]PING :irc.evilcorp.ga
+[20-03-03 21:00:23]PING :irc.evilcorp.ga
+[20-03-03 21:02:23]PING :irc.evilcorp.ga
+[20-03-03 21:04:23]PING :irc.evilcorp.ga
+[20-03-03 21:06:23]PING :irc.evilcorp.ga
+[20-03-03 21:06:26]:x3n!x3n@irc.evilcorp.ga PRIVMSG #lobby :Anyone around?
+[20-03-03 21:08:23]PING :irc.evilcorp.ga
+[20-03-03 21:10:23]PING :irc.evilcorp.ga
+[20-03-03 21:12:23]PING :irc.evilcorp.ga
+[20-03-03 21:14:23]PING :irc.evilcorp.ga
+[20-03-03 21:16:23]PING :irc.evilcorp.ga
+[20-03-03 21:18:22]PING :irc.evilcorp.ga
+[20-03-03 21:20:23]PING :irc.evilcorp.ga
+[20-03-03 21:22:23]PING :irc.evilcorp.ga
+[20-03-03 21:24:23]PING :irc.evilcorp.ga
+[20-03-03 21:26:23]PING :irc.evilcorp.ga
+[20-03-03 21:28:23]PING :irc.evilcorp.ga
+[20-03-03 21:30:22]PING :irc.evilcorp.ga
+[20-03-03 21:32:23]PING :irc.evilcorp.ga
+[20-03-03 21:34:23]PING :irc.evilcorp.ga
+[20-03-03 21:36:19]:hash!hash@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-03 21:36:23]PING :irc.evilcorp.ga
+[20-03-03 21:38:23]PING :irc.evilcorp.ga
+[20-03-03 21:40:23]PING :irc.evilcorp.ga
+[20-03-03 21:42:23]PING :irc.evilcorp.ga
+[20-03-03 21:43:28]:hash!hash@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 21:43:28]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome hash
+[20-03-03 21:44:23]PING :irc.evilcorp.ga
+[20-03-03 21:46:23]PING :irc.evilcorp.ga
+[20-03-03 21:48:23]PING :irc.evilcorp.ga
+[20-03-03 21:50:23]PING :irc.evilcorp.ga
+[20-03-03 21:52:18]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :back
+[20-03-03 21:52:23]PING :irc.evilcorp.ga
+[20-03-03 21:53:32]:Ermac!Ermac@Ultimate.Warrior JOIN :#lobby
+[20-03-03 21:53:32]:irc.evilcorp.ga MODE #lobby +y :Ermac
+[20-03-03 21:53:32]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Ermac
+[20-03-03 21:54:23]PING :irc.evilcorp.ga
+[20-03-03 21:56:23]PING :irc.evilcorp.ga
+[20-03-03 21:57:05]:hash_!hash@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 21:57:05]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome hash_
+[20-03-03 21:57:05]:hash!hash@irc.evilcorp.ga QUIT :The TLS connection was non-properly terminated.
+[20-03-03 21:58:23]PING :irc.evilcorp.ga
+[20-03-03 22:00:23]PING :irc.evilcorp.ga
+[20-03-03 22:02:23]PING :irc.evilcorp.ga
+[20-03-03 22:04:23]PING :irc.evilcorp.ga
+[20-03-03 22:06:23]PING :irc.evilcorp.ga
+[20-03-03 22:08:23]PING :irc.evilcorp.ga
+[20-03-03 22:08:53]:Ermac!Ermac@Ultimate.Warrior QUIT :Consumed by Evil: WeeChat 1.9.1
+[20-03-03 22:09:29]:Ermac!Ermac@Ultimate.Warrior JOIN :#lobby
+[20-03-03 22:09:29]:irc.evilcorp.ga MODE #lobby +y :Ermac
+[20-03-03 22:09:29]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Ermac
+[20-03-03 22:10:23]PING :irc.evilcorp.ga
+[20-03-03 22:12:23]PING :irc.evilcorp.ga
+[20-03-03 22:14:23]PING :irc.evilcorp.ga
+[20-03-03 22:16:23]PING :irc.evilcorp.ga
+[20-03-03 22:18:23]PING :irc.evilcorp.ga
+[20-03-03 22:18:54]:Shadow_Lobster!Shadow@Man.With.Claws JOIN :#lobster
+[20-03-03 22:18:54]:Shadow_Lobster!Shadow@Man.With.Claws JOIN :#lobby
+[20-03-03 22:18:54]:Shadow_Lobster!Shadow@Man.With.Claws JOIN :#bots
+[20-03-03 22:18:54]:Shadow_Lobster!Shadow@Man.With.Claws JOIN :#BashWizards
+[20-03-03 22:18:55]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +v :Shadow_Lobster
+[20-03-03 22:18:55]:PerlMonk!PerlMonk@Terminal.Slayer MODE #BashWizards +ao Shadow_Lobster :Shadow_Lobster
+[20-03-03 22:18:55]:IronGolm!Iron@Golm MODE #lobster +qo Shadow_Lobster :Shadow_Lobster
+[20-03-03 22:18:55]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Shadow_Lobster
+[20-03-03 22:19:16]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :welcome Shadow_Lobster 
+[20-03-03 22:19:29]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hey dusty
+[20-03-03 22:19:39]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :hay is for horses
+[20-03-03 22:19:54]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-03 22:20:02]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :you up early today?
+[20-03-03 22:20:23]PING :irc.evilcorp.ga
+[20-03-03 22:21:24]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :time cape town
+[20-03-03 22:21:25]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Africa/Johannesburg -> 8:21:25 am
+[20-03-03 22:21:38]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah thats early for me
+[20-03-03 22:22:23]PING :irc.evilcorp.ga
+[20-03-03 22:22:25]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :lol
+[20-03-03 22:22:55]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :also what u upto today?
+[20-03-03 22:23:11]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :anything new?
+[20-03-03 22:23:13]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :waking up
+[20-03-03 22:23:19]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :xD
+[20-03-03 22:23:20]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :pre-coffee
+[20-03-03 22:23:23]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :going shopping just now
+[20-03-03 22:23:26]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :playing some adventure land
+[20-03-03 22:23:44]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lmao
+[20-03-03 22:24:23]PING :irc.evilcorp.ga
+[20-03-03 22:25:16]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :me and TripleZer0 gonna have a server soon. He was Building it
+[20-03-03 22:25:20]:h3lkitty!h3lkitty@Evil.Kitty JOIN :#lobby
+[20-03-03 22:25:21]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome h3lkitty
+[20-03-03 22:25:21]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +v :h3lkitty
+[20-03-03 22:25:27]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :seems he is stuck somewhere
+[20-03-03 22:25:33]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :Wb h3lkitty
+[20-03-03 22:25:38]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :ttps://adventure.land/r/5736224816889856
+[20-03-03 22:25:39]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :ZnUnknownScheme
+[20-03-03 22:25:42]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :thanx shadow_lobster
+[20-03-03 22:25:48]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :https://adventure.land/r/5736224816889856
+[20-03-03 22:25:51]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Adventure Land
+[20-03-03 22:26:23]PING :irc.evilcorp.ga
+[20-03-03 22:26:54]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :paid game no thanks :P
+[20-03-03 22:26:59]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :its cheep
+[20-03-03 22:27:06]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :also, I never pay for games, but I paid for this one
+[20-03-03 22:27:08]:dusty!dusty@evilcorp.ga PRIVMSG #lobby :its just that good
+[20-03-03 22:27:31]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i have no card
+[20-03-03 22:27:42]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :have to steal from my parents
+[20-03-03 22:27:50]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :how are y'all doing today :D
+[20-03-03 22:28:14]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :fine hbu?
+[20-03-03 22:28:23]PING :irc.evilcorp.ga
+[20-03-03 22:28:24]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i got it built just having issues
+[20-03-03 22:28:37]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :microsoft wont ake me a web host thing
+[20-03-03 22:28:42]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :make*
+[20-03-03 22:28:49]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :gonna update it and see what then
+[20-03-03 22:29:00]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ok bro
+[20-03-03 22:30:23]PING :irc.evilcorp.ga
+[20-03-03 22:30:41]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :i'm hungry shadow_lobster :( craving for some delicious pancakes <3
+[20-03-03 22:32:23]PING :irc.evilcorp.ga
+[20-03-03 22:32:53]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG BayMax :@action gives h3lkitty delicious pancakes..
+[20-03-03 22:34:49]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :thanks baymax :')
+[20-03-03 22:34:54]PING :irc.evilcorp.ga
+[20-03-03 22:35:04]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ACTION shares pancakes with baymax
+[20-03-03 22:36:14]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG BayMax :@say thanks h3lkitty
+[20-03-03 22:36:36]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ur welcome bud ^^
+[20-03-03 22:38:14]PING :irc.evilcorp.ga
+[20-03-03 22:40:14]PING :irc.evilcorp.ga
+[20-03-03 22:42:14]PING :irc.evilcorp.ga
+[20-03-03 22:43:38]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :x3n?
+[20-03-03 22:43:53]:TripleZer0!TripleZer0@Golden.Legend QUIT :Ping timeout: 120 seconds
+[20-03-03 22:44:14]PING :irc.evilcorp.ga
+[20-03-03 22:45:06]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :x3n? you there?
+[20-03-03 22:46:14]PING :irc.evilcorp.ga
+[20-03-03 22:46:27]:TripleZer0!TripleZer0@EvilCorp49h.ct9.24cvif.IP JOIN :#lobby
+[20-03-03 22:46:28]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome TripleZer0
+[20-03-03 22:46:29]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :TripleZer0
+[20-03-03 22:46:40]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :who can help me with 1 thing for weechat?
+[20-03-03 22:46:50]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :that may be?
+[20-03-03 22:47:42]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :also may have the server pc just about ready 
+[20-03-03 22:47:48]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :How to i globally ignore ctcp requests globally for like ctcp finger,version and time globally? on adiirc on windows I use /ignore -tw *!*@* ,but /ignore -tw *!*@* wont work on weechat
+[20-03-03 22:47:58]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :hmmm
+[20-03-03 22:48:14]PING :irc.evilcorp.ga
+[20-03-03 22:48:17]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :did u google?
+[20-03-03 22:48:38]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :search ignore weechat ctcp
+[20-03-03 22:48:39]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :First 3 results for -> ignore weechat ctcp
+[20-03-03 22:48:41]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :WeeChat FAQ (Frequently Asked Questions) -> https://weechat.org/faq/
+[20-03-03 22:48:42]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :WeeChat user's guide -> https://weechat.org/doc/user/
+[20-03-03 22:48:43]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :WeeChat FAQ (Frequently Asked Questions) -> https://weechat.org/doc/faq/
+[20-03-03 22:48:49]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :hmm
+[20-03-03 22:48:55]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :takes to long time and i dont have time to do that when i have other things to do soon
+[20-03-03 22:49:05]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ahh 
+[20-03-03 22:49:18]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :Shadow_Lobster
+[20-03-03 22:49:27]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah
+[20-03-03 22:49:35]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :what linux os do you use?
+[20-03-03 22:49:42]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ubuntu
+[20-03-03 22:49:44]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :and what vm program do you use?
+[20-03-03 22:49:47]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ok cool 
+[20-03-03 22:49:51]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :linux mint (Cinnamon)
+[20-03-03 22:49:57]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :if u ask me
+[20-03-03 22:50:14]PING :irc.evilcorp.ga
+[20-03-03 22:50:16]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :lol ik u jaxx
+[20-03-03 22:50:20]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :vmware workstation pro
+[20-03-03 22:50:37]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :whats diffrence with cinnamon vs regular mint
+[20-03-03 22:50:40]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :also sweet
+[20-03-03 22:50:47]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :i use oracle
+[20-03-03 22:51:29]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :cool i have tried that before and network didnt work so used vmware
+[20-03-03 22:51:30]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :ping x3n
+[20-03-03 22:51:31]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :x3n PONG 1 seconds
+[20-03-03 22:51:39]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :so i am gonna like make a shared folder and send u chrome install 
+[20-03-03 22:52:03]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ok bro
+[20-03-03 22:52:06]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :internet explorer on this thing is like dealing with an asshole
+[20-03-03 22:52:14]PING :irc.evilcorp.ga
+[20-03-03 22:52:30]:LODA!LODA@irc.evilcorp.ga JOIN :#lobby
+[20-03-03 22:52:31]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome LODA
+[20-03-03 22:52:48]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :i guess i just wait for x3n
+[20-03-03 22:52:58]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :internet explorer lol
+[20-03-03 22:53:29]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby ::/ still no luck for my onion address, 24 fking cores server -_- 
+[20-03-03 22:53:46]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :hoping that updating it fixed my dns issue
+[20-03-03 22:54:00]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :literally its gonna be a website to login  
+[20-03-03 22:54:08]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :so u can do it from anywhere :)
+[20-03-03 22:54:14]PING :irc.evilcorp.ga
+[20-03-03 22:54:38]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :so none can help?
+[20-03-03 22:54:46]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :no one uses weechat 
+[20-03-03 22:55:05]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :ITS WORKING
+[20-03-03 22:55:14]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :HOLY MOTHER OF GOD I DID IT
+[20-03-03 22:55:23]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :any one have good experience generating custom onion v3 address? 8 characters. 24 cores server. 98gb ram. 
+[20-03-03 22:55:35]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :oh well. i just forget it then since none can help
+[20-03-03 22:55:38]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :except x3n
+[20-03-03 22:55:44]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :Jaxx i am searching google but got nothing yet
+[20-03-03 22:56:11]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :Shadow_Lobster: its ok. i can wait.
+[20-03-03 22:56:14]PING :irc.evilcorp.ga
+[20-03-03 22:56:31]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :cool TripleZer0
+[20-03-03 22:58:14]PING :irc.evilcorp.ga
+[20-03-03 22:59:08]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :If you want to block CTCP "VERSION" (do not reply to a query), then set empty string: /set irc.ctcp.version ""
+[20-03-03 22:59:26]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :Jaxx hope that answers your qustion
+[20-03-03 22:59:57]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :empty everything b/w quotes
+[20-03-03 23:00:15]PING :irc.evilcorp.ga
+[20-03-03 23:00:48]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :and for finger and time,i just change the "version" part to finger or time?
+[20-03-03 23:01:04]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah
+[20-03-03 23:02:14]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :https://pastebin.com/dRHMn9DL
+[20-03-03 23:02:15]PING :irc.evilcorp.ga
+[20-03-03 23:02:15]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :CTCP block - Pastebin.com
+[20-03-03 23:03:07]:Ermac!Ermac@Ultimate.Warrior PRIVMSG #lobby :Shadow_Lobster: its me Jaxx on weechat
+[20-03-03 23:03:26]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :nice Ermac
+[20-03-03 23:03:52]:Ermac!Ermac@Ultimate.Warrior PRIVMSG #lobby :Shadow_Lobster: Try do /ctcp version on my nick Ermac
+[20-03-03 23:03:57]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ok
+[20-03-03 23:04:15]PING :irc.evilcorp.ga
+[20-03-03 23:04:17]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :good no repy
+[20-03-03 23:04:22]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :reply
+[20-03-03 23:04:29]:Ermac!Ermac@Ultimate.Warrior PRIVMSG #lobby :ok
+[20-03-03 23:04:38]:Ermac!Ermac@Ultimate.Warrior PRIVMSG #lobby :ty :)
+[20-03-03 23:04:51]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :you can custiomise and add something in  quotes
+[20-03-03 23:05:15]:pi__!Svarog@Cocaine.Ninja JOIN :#lobby
+[20-03-03 23:05:15]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome pi__
+[20-03-03 23:05:35]:Ermac!Ermac@Ultimate.Warrior PRIVMSG #lobby :wb, Svarog
+[20-03-03 23:06:01]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :hmmm
+[20-03-03 23:06:15]PING :irc.evilcorp.ga
+[20-03-03 23:06:23]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :hmmm
+[20-03-03 23:07:23]:Svarog_!Svarog@Cocaine.Ninja QUIT :Ping timeout: 120 seconds
+[20-03-03 23:08:15]PING :irc.evilcorp.ga
+[20-03-03 23:08:45]:TripleZer0!TripleZer0@Golden.Legend PRIVMSG #lobby :maybe this is gonna be trickier 
+[20-03-03 23:09:34]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :trick
+[20-03-03 23:10:15]PING :irc.evilcorp.ga
+[20-03-03 23:10:36]:pi__!Svarog@Cocaine.Ninja QUIT :Consumed by Evil: Leaving
+[20-03-03 23:12:15]PING :irc.evilcorp.ga
+[20-03-03 23:14:15]PING :irc.evilcorp.ga
+[20-03-03 23:16:15]PING :irc.evilcorp.ga
+[20-03-03 23:16:17]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :ACTION sneezes
+[20-03-03 23:18:15]PING :irc.evilcorp.ga
+[20-03-03 23:20:15]PING :irc.evilcorp.ga
+[20-03-03 23:20:21]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :Ermac you havent yet ignored ping requests
+[20-03-03 23:22:14]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :Jaxx ping is still replying
+[20-03-03 23:22:15]PING :irc.evilcorp.ga
+[20-03-03 23:22:47]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :what did u try on Ermac?
+[20-03-03 23:23:19]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :i pinged using ctcp
+[20-03-03 23:23:27]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :and it is repying
+[20-03-03 23:23:52]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :all the ctcp's?
+[20-03-03 23:24:01]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :no just ping
+[20-03-03 23:24:15]PING :irc.evilcorp.ga
+[20-03-03 23:24:21]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :well. if its just ping,then thats ok
+[20-03-03 23:24:35]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :im talking about the ctcp finger,ctcp time and ctcp version
+[20-03-03 23:25:02]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :ok
+[20-03-03 23:25:07]:Jaxx!Jaxx@Ultimate.Warrior PRIVMSG #lobby :u just tried the ctcp version on my nick Ermac and u said no reply
+[20-03-03 23:25:49]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah it wont reply
+[20-03-03 23:26:15]PING :irc.evilcorp.ga
+[20-03-03 23:28:16]PING :irc.evilcorp.ga
+[20-03-03 23:30:16]PING :irc.evilcorp.ga
+[20-03-03 23:32:17]PING :irc.evilcorp.ga
+[20-03-03 23:34:17]PING :irc.evilcorp.ga
+[20-03-03 23:36:17]PING :irc.evilcorp.ga
+[20-03-03 23:38:18]PING :irc.evilcorp.ga
+[20-03-03 23:40:19]PING :irc.evilcorp.ga
+[20-03-03 23:42:19]PING :irc.evilcorp.ga
+[20-03-03 23:44:19]PING :irc.evilcorp.ga
+[20-03-03 23:46:19]PING :irc.evilcorp.ga
+[20-03-03 23:48:19]PING :irc.evilcorp.ga
+[20-03-03 23:50:19]PING :irc.evilcorp.ga
+[20-03-03 23:52:19]PING :irc.evilcorp.ga
+[20-03-03 23:54:19]PING :irc.evilcorp.ga
+[20-03-03 23:56:19]PING :irc.evilcorp.ga
+[20-03-03 23:58:19]PING :irc.evilcorp.ga
+[20-03-04 00:00:19]PING :irc.evilcorp.ga
+[20-03-04 00:02:21]PING :irc.evilcorp.ga
+[20-03-04 00:04:21]PING :irc.evilcorp.ga
+[20-03-04 00:06:21]PING :irc.evilcorp.ga
+[20-03-04 00:07:20]:Jaxx!Jaxx@Ultimate.Warrior QUIT :Consumed by Evil: Going offline, see ya! (www.adiirc.com)
+[20-03-04 00:07:39]:Ermac!Ermac@Ultimate.Warrior QUIT :Consumed by Evil: WeeChat 1.9.1
+[20-03-04 00:08:22]PING :irc.evilcorp.ga
+[20-03-04 00:08:29]:Ermac!Ermac@Ultimate.Warrior JOIN :#lobby
+[20-03-04 00:08:29]:irc.evilcorp.ga MODE #lobby +y :Ermac
+[20-03-04 00:08:29]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Ermac
+[20-03-04 00:10:22]PING :irc.evilcorp.ga
+[20-03-04 00:11:22]:Ermac!Ermac@Ultimate.Warrior QUIT :Consumed by Evil: WeeChat 1.9.1
+[20-03-04 00:11:47]:Ermac!Ermac@Ultimate.Warrior JOIN :#lobby
+[20-03-04 00:11:47]:irc.evilcorp.ga MODE #lobby +y :Ermac
+[20-03-04 00:11:47]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome Ermac
+[20-03-04 00:12:22]PING :irc.evilcorp.ga
+[20-03-04 00:14:22]PING :irc.evilcorp.ga
+[20-03-04 00:16:23]PING :irc.evilcorp.ga
+[20-03-04 00:18:24]PING :irc.evilcorp.ga
+[20-03-04 00:20:26]PING :irc.evilcorp.ga
+[20-03-04 00:22:27]PING :irc.evilcorp.ga
+[20-03-04 00:24:06]:peanutstick!peanutstic@irc.evilcorp.ga JOIN :#lobby
+[20-03-04 00:24:06]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome peanutstick
+[20-03-04 00:24:27]PING :irc.evilcorp.ga
+[20-03-04 00:24:46]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :hello everyone 
+[20-03-04 00:25:01]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :Hi :D
+[20-03-04 00:25:16]:Ermac!Ermac@Ultimate.Warrior PRIVMSG #lobby :Hi :D
+[20-03-04 00:25:19]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :how are you LODA ? :D are you new here ?
+[20-03-04 00:25:29]:Ermac!Ermac@Ultimate.Warrior PRIVMSG #lobby :peanutstick: u use weechat?
+[20-03-04 00:25:30]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :hi Ermac :D 
+[20-03-04 00:25:34]:LODA!LODA@irc.evilcorp.ga PRIVMSG #lobby :Yes 1 week old :D
+[20-03-04 00:25:47]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :no I use HexChat
+[20-03-04 00:25:54]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :oh I see ^^
+[20-03-04 00:26:27]PING :irc.evilcorp.ga
+[20-03-04 00:26:37]:h3lkitty!h3lkitty@Evil.Kitty PRIVMSG #lobby :HexChat? Pretty much like SexChat
+[20-03-04 00:27:57]:Ermac!Ermac@Ultimate.Warrior PRIVMSG #lobby :so now i got 3 nicks :D .. Jaxx (PC, Windows) , Mysterio (PC, Android) , Ermac (PC, Linux Mint Cinnamon)
+[20-03-04 00:28:28]PING :irc.evilcorp.ga
+[20-03-04 00:30:29]PING :irc.evilcorp.ga
+[20-03-04 00:31:34]:Ermac!Ermac@Ultimate.Warrior PRIVMSG #lobby :my keyboard button k is abit slow. the letter k sometimes comes first time and sometimes not,but not each time.. well u know
+[20-03-04 00:32:30]PING :irc.evilcorp.ga
+[20-03-04 00:33:05]:h3lkitty!h3lkitty@Evil.Kitty QUIT :The TLS connection was non-properly terminated.
+[20-03-04 00:34:30]PING :irc.evilcorp.ga
+[20-03-04 00:36:31]PING :irc.evilcorp.ga
+[20-03-04 00:38:33]PING :irc.evilcorp.ga
+[20-03-04 00:40:33]PING :irc.evilcorp.ga
+[20-03-04 00:41:51]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :ah, your keyboard is broken ?
+[20-03-04 00:42:33]PING :irc.evilcorp.ga
+[20-03-04 00:43:00]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :In my keyboard I have some problems too, sometims it's hard to puch the key cuz she is blocked
+[20-03-04 00:44:14]:Ermac!Ermac@Ultimate.Warrior PRIVMSG #lobby :not broken.. its just not always the k comes up. its not each time
+[20-03-04 00:44:34]PING :irc.evilcorp.ga
+[20-03-04 00:45:03]:Ermac!Ermac@Ultimate.Warrior PRIVMSG #lobby :but im going to ask the shop somewhere where i can ask if they can clean the laptop
+[20-03-04 00:45:08]:Ermac!Ermac@Ultimate.Warrior PRIVMSG #lobby :s keyboard
+[20-03-04 00:45:49]:hash_!hash@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-04 00:46:02]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :you can do it with pressurized air
+[20-03-04 00:46:34]PING :irc.evilcorp.ga
+[20-03-04 00:46:58]:peanutstick!peanutstic@irc.evilcorp.ga PRIVMSG #lobby :https://www.amazon.com/Falcon-Dust-Off-Electronics-Compressed-Duster/dp/B01A5PE7QW/ref=sr_1_3?keywords=compressed+air&qid=1583311585&sr=8-3
+[20-03-04 00:47:10]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Amazon.com: Falcon Dust-Off Electronics Compressed Gas Duster 10 Oz (4 Pack): Office Products
+[20-03-04 00:48:34]PING :irc.evilcorp.ga
+[20-03-04 00:50:34]PING :irc.evilcorp.ga
+[20-03-04 00:51:02]:Ermac!Ermac@Ultimate.Warrior QUIT :Consumed by Evil: WeeChat 1.9.1
+[20-03-04 00:52:34]PING :irc.evilcorp.ga
+[20-03-04 00:52:59]:hash!hash@irc.evilcorp.ga JOIN :#lobby
+[20-03-04 00:52:59]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome hash
+[20-03-04 00:54:34]PING :irc.evilcorp.ga
+[20-03-04 00:55:18]:peanutstick!peanutstic@irc.evilcorp.ga QUIT :Ping timeout: 120 seconds
+[20-03-04 00:56:34]PING :irc.evilcorp.ga
+[20-03-04 00:57:03]:x3n!x3n@irc.evilcorp.ga PRIVMSG #lobby :lol rip, I get here and Jaxx is gone
+[20-03-04 00:58:20]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :lol
+[20-03-04 00:58:34]PING :irc.evilcorp.ga
+[20-03-04 00:59:22]:x3n!x3n@irc.evilcorp.ga PRIVMSG #lobby :How's it going Shadow_Lobster?
+[20-03-04 00:59:52]:Shadow_Lobster!Shadow@Man.With.Claws PRIVMSG #lobby :yeah fine hbu x3n?
+[20-03-04 01:00:35]PING :irc.evilcorp.ga
+[20-03-04 01:02:10]:TripleZer0!TripleZer0@Golden.Legend QUIT :Connection closed
+[20-03-04 01:02:35]PING :irc.evilcorp.ga
+[20-03-04 01:03:25]:TripleZer0!TripleZer0@EvilCorp49h.ct9.24cvif.IP JOIN :#lobby
+[20-03-04 01:03:25]:EvilBot!EvilBot@EvilCorpd35.lct.0mqm8c.IP PRIVMSG #lobby :Welcome TripleZer0
+[20-03-04 01:03:27]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :TripleZer0
+[20-03-04 01:04:35]PING :irc.evilcorp.ga
+[20-03-04 01:06:35]PING :irc.evilcorp.ga
+[20-03-04 01:08:35]PING :irc.evilcorp.ga

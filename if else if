@@ -1,0 +1,10 @@
+############ if then, if then, else
+    *JOIN*) who=$(echo "$res" | perl -pe "s/:(.*)\!.*@.*/\1/")
+      if [ "$who" = "TripleZer0" ]
+      then echo "PRIVMSG $channel Get this man some whiskey and some darts!!! " >> $input
+      elif [ "$who" = "Megatron" ]
+      then echo "PRIVMSG $channel BACK BISHES!!!" >> $input
+      else echo "PRIVMSG $channel sTaY eViL $who" >> $input
+      fi
+     ;;
+############# u can only use if once then after that if must be elif. also u can keep making elifs after the first one. one more thing... u dont have to have an else
