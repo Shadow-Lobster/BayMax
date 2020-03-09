@@ -246,6 +246,32 @@ do
 	  echo "PRIVMSG Shadow_Lobster : "$who" ":""$msg"" >> $input
 	 fi
 	;;
+# memo services
+# this section (@tell) is for sending memos
+	*"@tell"*)
+	 who=$(echo "$res" | perl -pe "s/:(.*)\!.*@.*/\1/") 
+	 msg=$(echo "$res" | sed "s/^.*://") 
+	 bts=$(echo "$msg" | sed "s/[^ ]* //")
+	 name=$(echo "$bts" | sed -e 's/.*xxx \(.*\) xxx.*/\1/')
+	 from=$(echo "$res" | perl -pe "s/.*PRIVMSG (.*[#]?([a-zA-Z]|\-)*) :.*/\1/")
+	 time=$(date +"%d_%m_%Y %T")
+	 echo "$who: $bts" >> $name.memo
+	 echo "PRIVMSG $from :Your memo is saved, $who. once $name is online your message will be send" >> $input
+	;;
+# this section will show memos on join and will delete once send
+	*JOIN*)
+	 who=$(echo "$res" | perl -pe "s/:(.*)\!.*@.*/\1/")
+	 name=$(echo "$bts" | sed -e 's/.*xxx\(.*\)xxx.*/\1/')
+	 mem=$(echo "$(<$who.memo )")
+	 memo=$(echo "$mem" | sed 's/xxx[^~]*xxx//g')
+	 from=$(echo "$res" | perl -pe "s/.*PRIVMSG (.*[#]?([a-zA-Z]|\-)*) :.*/\1/")
+	 if ( $who = $nick )
+	  then echo "yourself" >> $input
+	 else
+	  echo "PRIVMSG $channel :$memo" >> $input
+	  rm -f $who.memo
+	 fi
+	;;
 	*"@calc"*)
 	 who=$(echo "$res" | perl -pe "s/:(.*)\!.*@.*/\1/") 
 	 msg=$(echo "$res" | sed "s/^.*://") 
