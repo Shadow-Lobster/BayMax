@@ -1,4 +1,0 @@
-'JOIN :#lobby')
-from=$(echo "$res" | perl -pe "s/.PRIVMSG (.[#]?([a-zA-Z]|-)) :./\1/") 
-who=$(echo "$res" | perl -pe "s/:(.)!.@.*/\1/")
-      if [ "$who" = "TripleZer0" ]
