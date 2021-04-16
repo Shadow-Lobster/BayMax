@@ -1,6 +1,0 @@
-   *"-speak"*) who=$(echo "$res" | perl -pe "s/:(.*)\!.*@.*/\1/") msg=$(echo "$res" | sed "s/^.*://") bts=$(echo "$msg" | sed "s/[^ ]* //")
-   echo "PRIVMSG $channel :$bts" >> $input
-    ;;
-   *"-action"*) who=$(echo "$res" | perl -pe "s/:(.*)\!.*@.*/\1/") msg=$(echo "$res" | sed "s/^.*://") bts=$(echo "$msg" | sed "s/[^ ]* //")
-   echo "PRIVMSG $channel :ACTION $bts" >> $input
-    ;;
