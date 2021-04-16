@@ -1,0 +1,19 @@
+#!/bin/bash
+#!/usr/bin/perl
+
+##example link https://api.ipdata.co/103.75.190.11?api-key=730b559ff93e77756a72746c211da38b0e523fde8b6ab0fda539eb26
+
+isIpTor(){
+	ip="$1"
+	apiKey="730b559ff93e77756a72746c211da38b0e523fde8b6ab0fda539eb26"
+	link="https://api.ipdata.co/$ip?api-key=$apiKey"
+	response=$(curl -sS "$link")
+	strip=$(echo $response | perl -pe "s/\n\r\t\s//")
+	strippedIp=$(echo $strip | perl -pe "s/\{ \"ip\"\: \"(.*)\"\, \"is_eu\"\:.*/\1/")
+	if [ "$ip" = "$strippedIp" ]
+	then
+		torcheck=$(echo $strip | perl -pe "s/.*\"is_tor\"\: ([a-z]+)\, .*/\1/")
+		echo "$torcheck"
+	else echo "some error occured"
+	fi
+}

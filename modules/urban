@@ -1,0 +1,24 @@
+#!/bin/bash
+#!/user/bin/perl
+
+urbanDefLookup(){
+word=$(echo $* | perl -pe "s/(.*)\\r/\1/")
+wordAttributes=$(echo $word | perl -pe "s/ /%20/g")
+link="http://api.urbandictionary.com/v0/define?term=$wordAttributes"
+response=$(curl -sS $link)
+definitionRaw=$(echo $response | perl -pe "s/\{\"list\"\:\[\{\"definition\"\:\"(.*?)\",\"permalink.*/\1/")
+definition=$(echo $definitionRaw | perl -pe "s/[\[\]]//g")
+echo $definition
+}
+urbanExLookup(){
+word=$(echo $* | perl -pe "s/(.*)\\r/\1/")
+wordAttributes=$(echo $word | perl -pe "s/ /%20/g")
+link="http://api.urbandictionary.com/v0/define?term=$wordAttributes"
+response=$(curl -sS $link)
+exampleRaw=$(echo $response | perl -pe "s/.*?\",\"example\"\:\"(.*?)\",\"thumbs\_down\".*/\1/")
+example=$(echo $exampleRaw | perl -pe "s/[\[\]]//g")
+echo $example
+}
+#word="$*"
+#urbanDefLookup $word
+#urbanExLookup $word

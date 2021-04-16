@@ -1,0 +1,20 @@
+#!/bin/bash
+#!/user/bin/perl
+
+##example link https://scamalytics.com/ip/154.17.3.143
+
+assessIpRisk(){
+	ip="$1"
+	link="https://scamalytics.com/ip/$ip"
+	response=$(curl -sS $link)
+	strip=$(echo $response | perl -pe "s/\n\r\t\s//")
+	api=$(echo $strip | perl -pe "s/.*(\{ \"ip\"\:\".*\"\, \"score\"\:\"[0-9]+\"\, \"risk\"\:\".*\" \}) \<\/pre\>.*/\1/")
+	strippedIp=$(echo $api | perl -pe "s/.*\"ip\"\:\"(.*)\"\, \"score\".*/\1/")
+if [ $strippedIp = $ip ]
+then
+	score=$(echo $api | perl -pe "s/.*\"score\"\:\"([0-9]+)\".*/\1/")
+	risk=$(echo $api | perl -pe "s/.*\"risk\"\:\"(.*)\" \}.*/\1/")
+	echo "$risk $score"
+else echo "some error occured "
+fi
+}

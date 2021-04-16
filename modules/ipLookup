@@ -1,0 +1,70 @@
+#!/bin/bash
+#!/user/bin/perl
+
+##example http://ip-api.com/json/103.70.197.43?fields=status,message,country,proxy
+
+source ./modules/ipRisk
+source ./modules/ipIsTor
+source ./modules/ipSpamNmap
+ipDetailsLookup(){
+ip=$(echo $1 | perl -pe "s/(.*)\\r/\1/")
+##possible attributes are : status,message,continent,continentCode,country,countryCode,region,regionName,city,district,zip,lat,lon,timezone,offset,currency,isp,org,as,asname,reverse,mobile,proxy,hosting,query
+attributes="status,message,countryCode,proxy"	#seperate by commas
+##for detailed attribute view see https://ip-api.com/docs/api:json
+link="http://ip-api.com/json/$ip?fields=$attributes"
+response=$(curl -sS $link)
+status=$(echo $response | perl -pe "s/.*\"status\"\:\"([a-zA-Z]+)\".*/\1/")
+if [ -z "${ip}" ]
+then
+	echo "not enough parameters (usage: @whois [ip])"
+else
+	if [ "$status" = "success" ]
+	then
+		proxycheck=$(echo $response | perl -pe "s/.*\"proxy\"\:([a-zA-Z]+).*/\1/")
+		country=$(echo $response | perl -pe "s/.*\"countryCode\"\:\"([a-zA-Z]+)\".*/\1/")
+		ipRisk=$(assessIpRisk $ip)
+		risk=$(echo $ipRisk | perl -pe "s/(.*) [0-9]+/\1/")
+		fraud_score=$(echo $ipRisk | perl -pe "s/.* ([0-9]+)/\1/")
+		ipTor=$(isIpTor $ip)
+		torcheck=$(echo $ipTor)
+		ipSpam=$(isSpamIp $ip)
+		spamcheck=$(echo $ipSpam)
+		if [ "$risk" = "some error occured" ]
+		then
+			fraud_score="n/a"
+			risk="n/a"
+		fi
+		if [ "$torcheck" = "some error occured" ]
+		then
+			torcheck="n/a"
+		fi
+		if [ "$spamcheck" = "some error occured" ]
+		then
+			spamcheck="n/a"
+		fi
+	echo "details of ip $ip: country = $country, tor connection = $torcheck,  vpn connection = $proxycheck,  proxy connection = $proxycheck,  abuse score = $fraud_score, risk = $risk , spam lookup = $spamcheck"
+	elif [ "$status" = "fail" ]
+	then
+		message=$(echo $response | perl -pe "s/.*\"message\"\:\"(.*)\".*/\1/")
+		if [ "$message" = "invalid query" ]
+		then
+			error="This is not a valid ip, please provide a valid ip"
+			echo "$error"
+		elif [ "$message" = "private range" ]
+		then
+			error="This is an ip allocated for local network. Check here to find out what a private ip is :https://en.wikipedia.org/wiki/Private_network. Please provide a public ip"
+			echo "$error"
+		elif [ "$message" = "reserved range" ]
+		then
+			error="This is an ip that falls under reserved range. Check here to find out what a reserved range is :https://en.wikipedia.org/wiki/Reserved_IP_addresses. Please provide a valid ip"
+			echo "$error"
+		fi
+	else
+		error="some unexpected error happened. Please try again later or else contact admin"
+		echo "$error"
+	fi
+fi
+}
+#ip=$1
+#ipDetailsLookup $ip
+

@@ -1,0 +1,26 @@
+#!/bin/bash
+#!/usr/bin/bash
+
+##nmap -sn 178.128.45.74 --script dns-blacklist
+
+isSpamIp(){
+	ip="$1"
+	scriptName="dns-blacklist"
+	response=$(nmap -sn $ip --script $scriptName)
+	strip=$(echo $response | perl -pe "s/\n\r\t\s//")
+	success=$(echo $strip | perl -pe "s/.*Nmap done\: [0-9] IP address \(([0-9]) host up\).*/\1/")
+	if [ "$success" = "1" ]
+	then
+		echo $strip | grep -Fq SPAM
+		if [ $? -eq 0  ]
+		then
+			echo "true"
+		else
+			echo "false"
+		fi
+	else
+		echo "some error occured"
+	fi
+	
+}
+
